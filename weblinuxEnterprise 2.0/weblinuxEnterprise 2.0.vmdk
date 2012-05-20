@@ -1,0 +1,31 @@
+# Disk DescriptorFile
+version=1
+encoding="windows-1252"
+CID=66464ae7
+parentCID=ffffffff
+isNativeSnapshot="no"
+createType="twoGbMaxExtentSparse"
+
+# Extent description
+RW 4192256 SPARSE "weblinuxEnterprise 2.0-s001.vmdk"
+RW 4192256 SPARSE "weblinuxEnterprise 2.0-s002.vmdk"
+RW 4192256 SPARSE "weblinuxEnterprise 2.0-s003.vmdk"
+RW 4192256 SPARSE "weblinuxEnterprise 2.0-s004.vmdk"
+RW 4192256 SPARSE "weblinuxEnterprise 2.0-s005.vmdk"
+RW 4192256 SPARSE "weblinuxEnterprise 2.0-s006.vmdk"
+RW 4192256 SPARSE "weblinuxEnterprise 2.0-s007.vmdk"
+RW 4192256 SPARSE "weblinuxEnterprise 2.0-s008.vmdk"
+RW 4192256 SPARSE "weblinuxEnterprise 2.0-s009.vmdk"
+RW 4192256 SPARSE "weblinuxEnterprise 2.0-s010.vmdk"
+RW 20480 SPARSE "weblinuxEnterprise 2.0-s011.vmdk"
+
+# The Disk Data Base 
+#DDB
+
+ddb.virtualHWVersion = "8"
+ddb.longContentID = "8c1cdb950a307143d966b0e866464ae7"
+ddb.uuid = "60 00 C2 9a ad 9e 17 91-94 49 ab 7b 34 78 85 65"
+ddb.geometry.cylinders = "2610"
+ddb.geometry.heads = "255"
+ddb.geometry.sectors = "63"
+ddb.adapterType = "lsilogic"

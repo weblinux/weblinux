@@ -1,0 +1,389 @@
+2012-04-25T06:53:22.044-07:00| vmx| I120: Log for VMware Player pid=2996 version=4.0.0 build=build-471780 option=Release
+2012-04-25T06:53:22.044-07:00| vmx| I120: The process is 64-bit.
+2012-04-25T06:53:22.044-07:00| vmx| I120: Host codepage=windows-1252 encoding=windows-1252
+2012-04-25T06:53:22.044-07:00| vmx| I120: Host is Windows Server 2008 Standard Edition, 64-bit Service Pack 1 (Build 6001)
+2012-04-25T06:53:21.872-07:00| vmx| I120: VTHREAD initialize main thread 0 "vmx" host id 3292
+2012-04-25T06:53:21.872-07:00| vmx| I120: LOCALE windows-1252 -> NULL User=409 System=409
+2012-04-25T06:53:21.872-07:00| vmx| I120: Msg_SetLocaleEx: HostLocale=windows-1252 UserLocale=NULL
+2012-04-25T06:53:21.872-07:00| vmx| I120: Msg_Reset:
+2012-04-25T06:53:21.872-07:00| vmx| I120: [msg.dictionary.load.openFailed] Cannot open file "C:\ProgramData\VMware\VMware Workstation\config.ini": The system cannot find the file specified.
+2012-04-25T06:53:21.872-07:00| vmx| I120: ----------------------------------------
+2012-04-25T06:53:21.872-07:00| vmx| I120: ConfigDB: Failed to load C:\ProgramData\VMware\VMware Workstation\config.ini
+2012-04-25T06:53:21.872-07:00| vmx| I120: Msg_Reset:
+2012-04-25T06:53:21.872-07:00| vmx| I120: [msg.dictionary.load.openFailed] Cannot open file "C:\ProgramData\VMware\VMware Workstation\config.ini": The system cannot find the file specified.
+2012-04-25T06:53:21.872-07:00| vmx| I120: ----------------------------------------
+2012-04-25T06:53:21.872-07:00| vmx| I120: ConfigDB: Failed to load C:\ProgramData\VMware\VMware Workstation\config.ini
+2012-04-25T06:53:21.872-07:00| vmx| I120: Msg_Reset:
+2012-04-25T06:53:21.872-07:00| vmx| I120: [msg.dictionary.load.openFailed] Cannot open file "C:\ProgramData\VMware\VMware Workstation\settings.ini": The system cannot find the file specified.
+2012-04-25T06:53:21.872-07:00| vmx| I120: ----------------------------------------
+2012-04-25T06:53:21.872-07:00| vmx| I120: ConfigDB: Failed to load C:\ProgramData\VMware\VMware Workstation\settings.ini
+2012-04-25T06:53:21.872-07:00| vmx| I120: Msg_Reset:
+2012-04-25T06:53:21.872-07:00| vmx| I120: [msg.dictionary.load.openFailed] Cannot open file "C:\Users\Administrator\AppData\Roaming\VMware\config.ini": The system cannot find the file specified.
+2012-04-25T06:53:21.872-07:00| vmx| I120: ----------------------------------------
+2012-04-25T06:53:21.872-07:00| vmx| I120: ConfigDB: Failed to load C:\Users\Administrator\AppData\Roaming\VMware\config.ini
+2012-04-25T06:53:21.872-07:00| vmx| I120: Msg_Reset:
+2012-04-25T06:53:21.872-07:00| vmx| I120: [msg.dictionary.load.openFailed] Cannot open file "C:\ProgramData\VMware\VMware Player\settings.ini": The system cannot find the file specified.
+2012-04-25T06:53:21.872-07:00| vmx| I120: ----------------------------------------
+2012-04-25T06:53:21.872-07:00| vmx| I120: PREF Optional preferences file not found at C:\ProgramData\VMware\VMware Player\settings.ini. Using default values.
+2012-04-25T06:53:21.872-07:00| vmx| I120: Msg_Reset:
+2012-04-25T06:53:21.872-07:00| vmx| I120: [msg.dictionary.load.openFailed] Cannot open file "C:\Users\Administrator\AppData\Roaming\VMware\config.ini": The system cannot find the file specified.
+2012-04-25T06:53:21.872-07:00| vmx| I120: ----------------------------------------
+2012-04-25T06:53:21.872-07:00| vmx| I120: PREF Optional preferences file not found at C:\Users\Administrator\AppData\Roaming\VMware\config.ini. Using default values.
+2012-04-25T06:53:21.872-07:00| vmx| I120: FILE: FileLockDynaLink: Further process validation tools are: available
+2012-04-25T06:53:21.872-07:00| vmx| I120: Hostinfo_OpenProcessBits: OpenProcess access bits are 1000.
+2012-04-25T06:53:22.044-07:00| vmx| I120: Hostname=dataCenter.main.dataCenter
+2012-04-25T06:53:22.044-07:00| vmx| I120: IP=fe80::e0bb:13e1:ac91:cd15%10
+2012-04-25T06:53:22.044-07:00| vmx| I120: IP=fe80::2c3c:d9ac:2fb5:b753%17
+2012-04-25T06:53:22.044-07:00| vmx| I120: IP=fe80::e8b8:9b3e:994f:32fc%19
+2012-04-25T06:53:22.044-07:00| vmx| I120: IP=10.0.0.5
+2012-04-25T06:53:22.044-07:00| vmx| I120: IP=192.168.157.1
+2012-04-25T06:53:22.044-07:00| vmx| I120: IP=192.168.60.1
+2012-04-25T06:53:22.044-07:00| vmx| I120: HOSTINFO 3800694043616 @ 14318180Hz -> 0 @ 1000000000Hz
+2012-04-25T06:53:22.044-07:00| vmx| I120: HOSTINFO ((x * 2343484437) >> 25) + -265445331961294
+2012-04-25T06:53:22.075-07:00| vmx| I120: System uptime 265445175199 us
+2012-04-25T06:53:22.075-07:00| vmx| I120: Command line: "C:\Program Files (x86)\VMware\VMware Player\x64\vmware-vmx.exe" "-ssnapshot.numRollingTiers=0" "-sRemoteDisplay.vnc.enabled=FALSE" "-s" "vmx.stdio.keep=TRUE" "-#" "product=8;name=VMware Player;version=4.0.0;buildnumber=471780;licensename=VMware Player;licenseversion=6.0;" "-@" "pipe=\\.\pipe\vmxfa83549a71e6260c;" "X:\fileserver\weblinux\weblinux core 2.0\weblinux core 2.0.vmx"
+2012-04-25T06:53:22.075-07:00| vmx| I120: Msg_SetLocaleEx: HostLocale=windows-1252 UserLocale=NULL
+2012-04-25T06:53:22.091-07:00| vmx| I120: UI Connecting to pipe '\\.\pipe\vmxfa83549a71e6260c' with user '(null)'
+2012-04-25T06:53:22.091-07:00| vmx| I120: VMXVmdb: Local connection timeout: 60000 ms.
+2012-04-25T06:53:22.184-07:00| vmx| I120: VmdbAddConnection: cnxPath=/db/connection/#1/, cnxIx=1
+2012-04-25T06:53:22.184-07:00| vmx| I120: Vix: [3292 mainDispatch.c:483]: VMAutomation: Initializing VMAutomation.
+2012-04-25T06:53:22.184-07:00| vmx| I120: Vix: [3292 mainDispatch.c:780]: VMAutomationOpenListenerSocket() listening
+2012-04-25T06:53:22.184-07:00| vmx| I120: Vix: [3292 mainDispatch.c:4067]: VMAutomation_ReportPowerOpFinished: statevar=0, newAppState=1870, success=1 additionalError=0
+2012-04-25T06:53:22.184-07:00| vmx| I120: Transitioned vmx/execState/val to poweredOff
+2012-04-25T06:53:22.184-07:00| vmx| I120: Vix: [3292 mainDispatch.c:4067]: VMAutomation_ReportPowerOpFinished: statevar=1, newAppState=1873, success=1 additionalError=0
+2012-04-25T06:53:22.184-07:00| vmx| I120: Vix: [3292 mainDispatch.c:4067]: VMAutomation_ReportPowerOpFinished: statevar=2, newAppState=1877, success=1 additionalError=0
+2012-04-25T06:53:22.184-07:00| vmx| I120: Vix: [3292 mainDispatch.c:4067]: VMAutomation_ReportPowerOpFinished: statevar=3, newAppState=1881, success=1 additionalError=0
+2012-04-25T06:53:22.184-07:00| vmx| I120: HD: host version is 6.0.6001
+2012-04-25T06:53:22.184-07:00| vmx| I120: HD: addr fffff8000191af90
+2012-04-25T06:53:22.184-07:00| vmx| I120: HD: fffff800019d70e0, 0
+2012-04-25T06:53:22.184-07:00| vmx| I120: Locked limit delta -2560 pages
+2012-04-25T06:53:22.184-07:00| vmx| I120: Locked limit delta 2560 pages
+2012-04-25T06:53:22.184-07:00| vmx| I120: Locked limit delta -2560 pages
+2012-04-25T06:53:22.184-07:00| vmx| I120: Locked limit delta 2560 pages
+2012-04-25T06:53:22.184-07:00| vmx| I120: Locked limit delta -2560 pages
+2012-04-25T06:53:22.184-07:00| vmx| I120: Locked limit delta 2560 pages
+2012-04-25T06:53:22.184-07:00| vmx| I120: Locked limit delta -2560 pages
+2012-04-25T06:53:22.184-07:00| vmx| I120: Locked limit delta 2560 pages
+2012-04-25T06:53:22.184-07:00| vmx| I120: Locked limit delta -2560 pages
+2012-04-25T06:53:22.184-07:00| vmx| I120: Locked limit delta 2560 pages
+2012-04-25T06:53:22.184-07:00| vmx| I120: VerificationOfHostParameters status 0
+2012-04-25T06:53:22.184-07:00| vmx| I120: VMMon_GetkHzEstimate: Calculated 2712177 kHz
+2012-04-25T06:53:22.184-07:00| vmx| I120: VMMon_RememberkHzEstimate: Calculated 2712177 kHz
+2012-04-25T06:53:22.184-07:00| vmx| I120: TSC kHz estimates: vmmon 2712177, remembered 2712177, osReported 2700000. Using 2712177 kHz.
+2012-04-25T06:53:22.184-07:00| vmx| I120: CPU # 0 TSC = 719913275984500
+2012-04-25T06:53:22.184-07:00| vmx| I120: CPU # 1 TSC = 719913275984658
+2012-04-25T06:53:22.184-07:00| vmx| I120: CPU # 2 TSC = 719913275983114
+2012-04-25T06:53:22.184-07:00| vmx| I120: CPU # 3 TSC = 719913275983306
+2012-04-25T06:53:22.184-07:00| vmx| I120: CPU # 4 TSC = 719913275984662
+2012-04-25T06:53:22.184-07:00| vmx| I120: CPU # 5 TSC = 719913275983727
+2012-04-25T06:53:22.184-07:00| vmx| I120: TSC first measured delta 1548
+2012-04-25T06:53:22.184-07:00| vmx| I120: TSC min delta 726
+2012-04-25T06:53:22.184-07:00| vmx| I120: PTSC: RefClockToPTSC 0 @ 14318180Hz -> 0 @ 2712177000Hz
+2012-04-25T06:53:22.184-07:00| vmx| I120: PTSC: RefClockToPTSC ((x * 3177972295) >> 24) + -278988747436013
+2012-04-25T06:53:22.184-07:00| vmx| I120: PTSC: tscOffset -278966905951085
+2012-04-25T06:53:22.184-07:00| vmx| I120: PTSC: using TSC
+2012-04-25T06:53:22.184-07:00| vmx| I120: PTSC: hardware TSCs are synchronized.
+2012-04-25T06:53:22.184-07:00| vmx| I120: PTSC: current PTSC=440946370635287
+2012-04-25T06:53:22.184-07:00| vmx| I120: hostCPUID vendor: AuthenticAMD
+2012-04-25T06:53:22.184-07:00| vmx| I120: hostCPUID family: 0x10 model: 0xa stepping: 0x0
+2012-04-25T06:53:22.184-07:00| vmx| I120: hostCPUID codename: K10 Opteron -- Unknown codename
+2012-04-25T06:53:22.184-07:00| vmx| I120: hostCPUID name: AMD Phenom(tm) II X6 1045T Processor
+2012-04-25T06:53:22.184-07:00| vmx| I120: hostCPUID level 00000000, 0: 0x00000006 0x68747541 0x444d4163 0x69746e65
+2012-04-25T06:53:22.184-07:00| vmx| I120: hostCPUID level 00000001, 0: 0x00100fa0 0x00060800 0x00802009 0x178bfbff
+2012-04-25T06:53:22.184-07:00| vmx| I120: hostCPUID level 00000002, 0: 0x00000000 0x00000000 0x00000000 0x00000000
+2012-04-25T06:53:22.184-07:00| vmx| I120: hostCPUID level 00000003, 0: 0x00000000 0x00000000 0x00000000 0x00000000
+2012-04-25T06:53:22.184-07:00| vmx| I120: hostCPUID level 00000004, 0: 0x00000000 0x00000000 0x00000000 0x00000000
+2012-04-25T06:53:22.184-07:00| vmx| I120: hostCPUID level 00000005, 0: 0x00000040 0x00000040 0x00000003 0x00000000
+2012-04-25T06:53:22.184-07:00| vmx| I120: hostCPUID level 00000006, 0: 0x00000000 0x00000000 0x00000001 0x00000000
+2012-04-25T06:53:22.184-07:00| vmx| I120: hostCPUID level 80000000, 0: 0x8000001b 0x68747541 0x444d4163 0x69746e65
+2012-04-25T06:53:22.184-07:00| vmx| I120: hostCPUID level 80000001, 0: 0x00100fa0 0x10000040 0x000837ff 0xefd3fbff
+2012-04-25T06:53:22.184-07:00| vmx| I120: hostCPUID level 80000002, 0: 0x20444d41 0x6e656850 0x74286d6f 0x4920296d
+2012-04-25T06:53:22.184-07:00| vmx| I120: hostCPUID level 80000003, 0: 0x36582049 0x34303120 0x50205435 0x65636f72
+2012-04-25T06:53:22.184-07:00| vmx| I120: hostCPUID level 80000004, 0: 0x726f7373 0x00000000 0x00000000 0x00000000
+2012-04-25T06:53:22.184-07:00| vmx| I120: hostCPUID level 80000005, 0: 0xff30ff10 0xff30ff20 0x40020140 0x40020140
+2012-04-25T06:53:22.184-07:00| vmx| I120: hostCPUID level 80000006, 0: 0x20800000 0x42004200 0x02008140 0x0030b140
+2012-04-25T06:53:22.184-07:00| vmx| I120: hostCPUID level 80000007, 0: 0x00000000 0x00000000 0x00000000 0x000003f9
+2012-04-25T06:53:22.184-07:00| vmx| I120: hostCPUID level 80000008, 0: 0x00003030 0x00000000 0x00003005 0x00000000
+2012-04-25T06:53:22.184-07:00| vmx| I120: hostCPUID level 80000009, 0: 0x00000000 0x00000000 0x00000000 0x00000000
+2012-04-25T06:53:22.184-07:00| vmx| I120: hostCPUID level 8000000a, 0: 0x00000001 0x00000040 0x00000000 0x0000040f
+2012-04-25T06:53:22.184-07:00| vmx| I120: hostCPUID level 8000000b, 0: 0x00000000 0x00000000 0x00000000 0x00000000
+2012-04-25T06:53:22.184-07:00| vmx| I120: hostCPUID level 8000000c, 0: 0x00000000 0x00000000 0x00000000 0x00000000
+2012-04-25T06:53:22.184-07:00| vmx| I120: hostCPUID level 8000000d, 0: 0x00000000 0x00000000 0x00000000 0x00000000
+2012-04-25T06:53:22.184-07:00| vmx| I120: hostCPUID level 8000000e, 0: 0x00000000 0x00000000 0x00000000 0x00000000
+2012-04-25T06:53:22.184-07:00| vmx| I120: hostCPUID level 8000000f, 0: 0x00000000 0x00000000 0x00000000 0x00000000
+2012-04-25T06:53:22.184-07:00| vmx| I120: hostCPUID level 80000010, 0: 0x00000000 0x00000000 0x00000000 0x00000000
+2012-04-25T06:53:22.184-07:00| vmx| I120: hostCPUID level 80000011, 0: 0x00000000 0x00000000 0x00000000 0x00000000
+2012-04-25T06:53:22.184-07:00| vmx| I120: hostCPUID level 80000012, 0: 0x00000000 0x00000000 0x00000000 0x00000000
+2012-04-25T06:53:22.184-07:00| vmx| I120: hostCPUID level 80000013, 0: 0x00000000 0x00000000 0x00000000 0x00000000
+2012-04-25T06:53:22.184-07:00| vmx| I120: hostCPUID level 80000014, 0: 0x00000000 0x00000000 0x00000000 0x00000000
+2012-04-25T06:53:22.184-07:00| vmx| I120: hostCPUID level 80000015, 0: 0x00000000 0x00000000 0x00000000 0x00000000
+2012-04-25T06:53:22.184-07:00| vmx| I120: hostCPUID level 80000016, 0: 0x00000000 0x00000000 0x00000000 0x00000000
+2012-04-25T06:53:22.184-07:00| vmx| I120: hostCPUID level 80000017, 0: 0x00000000 0x00000000 0x00000000 0x00000000
+2012-04-25T06:53:22.184-07:00| vmx| I120: hostCPUID level 80000018, 0: 0x00000000 0x00000000 0x00000000 0x00000000
+2012-04-25T06:53:22.184-07:00| vmx| I120: hostCPUID level 80000019, 0: 0xf0300000 0x60100000 0x00000000 0x00000000
+2012-04-25T06:53:22.184-07:00| vmx| I120: hostCPUID level 8000001a, 0: 0x00000003 0x00000000 0x00000000 0x00000000
+2012-04-25T06:53:22.184-07:00| vmx| I120: hostCPUID level 8000001b, 0: 0x0000001f 0x00000000 0x00000000 0x00000000
+2012-04-25T06:53:22.184-07:00| vmx| I120: CPUID differences from hostCPUID.
+2012-04-25T06:53:22.184-07:00| vmx| I120: CPUID[1] level 00000001, 0: 0x00100fa0 0x01060800 0x00802009 0x178bfbff
+2012-04-25T06:53:22.184-07:00| vmx| I120: CPUID[2] level 00000001, 0: 0x00100fa0 0x02060800 0x00802009 0x178bfbff
+2012-04-25T06:53:22.184-07:00| vmx| I120: CPUID[3] level 00000001, 0: 0x00100fa0 0x03060800 0x00802009 0x178bfbff
+2012-04-25T06:53:22.184-07:00| vmx| I120: CPUID[4] level 00000001, 0: 0x00100fa0 0x04060800 0x00802009 0x178bfbff
+2012-04-25T06:53:22.184-07:00| vmx| I120: CPUID[5] level 00000001, 0: 0x00100fa0 0x05060800 0x00802009 0x178bfbff
+2012-04-25T06:53:22.184-07:00| vmx| I120: CPUID Maximum Physical Address Bits supported across all CPUs: 48
+2012-04-25T06:53:22.184-07:00| vmx| I120: VMIOP: Init started
+2012-04-25T06:53:22.200-07:00| vmx| I120: MACWireless: registered wireless module "emulated"
+2012-04-25T06:53:22.450-07:00| vmx| I120: ConfigCheck: No rules file found. Checks are disabled.
+2012-04-25T06:53:22.450-07:00| vmx| I120: changing directory to X:\fileserver\weblinux\weblinux core 2.0\.
+2012-04-25T06:53:22.450-07:00| vmx| I120: Config file: X:\fileserver\weblinux\weblinux core 2.0\weblinux core 2.0.vmx
+2012-04-25T06:53:22.450-07:00| vmx| I120: Vix: [3292 mainDispatch.c:4067]: VMAutomation_ReportPowerOpFinished: statevar=1, newAppState=1873, success=1 additionalError=0
+2012-04-25T06:53:22.450-07:00| vmx| I120: Vix: [3292 mainDispatch.c:4067]: VMAutomation_ReportPowerOpFinished: statevar=2, newAppState=1878, success=1 additionalError=0
+2012-04-25T06:53:22.481-07:00| vmx| I120: VMXVmdbCbVmVmxExecState: Exec state change requested to state poweredOn without reset, soft, softOptionTimeout: 0.
+2012-04-25T06:53:22.481-07:00| vmx| I120: TOOLS delaying state change request to state 3 (callback 0, clientData 0)
+2012-04-25T06:53:22.481-07:00| vmx| W110: PowerOn
+2012-04-25T06:53:22.481-07:00| vmx| I120: VMX_PowerOn: VMX build 471780, UI build 471780
+2012-04-25T06:53:22.481-07:00| vmx| I120: HostWin32: WIN32 NUMA node 0, CPU mask 0x000000000000003f
+2012-04-25T06:53:22.496-07:00| vmx| I120: Vix: [3292 mainDispatch.c:4067]: VMAutomation_ReportPowerOpFinished: statevar=0, newAppState=1871, success=1 additionalError=0
+2012-04-25T06:53:22.496-07:00| vmx| I120: HOST Windows version 6.0, build 6001, platform 2, "Service Pack 1", SMP
+2012-04-25T06:53:22.496-07:00| vmx| I120: DICT --- USER PREFERENCES C:\Users\Administrator\AppData\Roaming\VMware\preferences.ini 
+2012-04-25T06:53:22.496-07:00| vmx| I120: DICT       pref.eula.0.appName = VMware Player
+2012-04-25T06:53:22.496-07:00| vmx| I120: DICT   pref.eula.0.buildNumber = 471780
+2012-04-25T06:53:22.496-07:00| vmx| I120: DICT     pref.trayicon.enabled = true
+2012-04-25T06:53:22.496-07:00| vmx| I120: DICT       pref.usbDev.maxDevs = 0
+2012-04-25T06:53:22.496-07:00| vmx| I120: DICT pref.keyboardAndMouse.maxProfiles = 0
+2012-04-25T06:53:22.496-07:00| vmx| I120: DICT vmWizard.installMediaType = iso
+2012-04-25T06:53:22.496-07:00| vmx| I120: DICT vmWizard.mruISO0.isoLocation = C:\Users\Administrator\Downloads\debian-6.0.4-i386-CD-1.iso
+2012-04-25T06:53:22.496-07:00| vmx| I120: DICT         vmWizard.guestKey = debian6
+2012-04-25T06:53:22.496-07:00| vmx| I120: DICT vmWizard.mruISO1.isoLocation = C:\Users\Administrator\Downloads\dsl-4.4.10.iso
+2012-04-25T06:53:22.496-07:00| vmx| I120: DICT      pref.mruVM0.filename = X:\fileserver\weblinux\weblinux core 2.0\weblinux core 2.0.vmx
+2012-04-25T06:53:22.496-07:00| vmx| I120: DICT   pref.mruVM0.displayname = weblinux core 2.0
+2012-04-25T06:53:22.496-07:00| vmx| I120: DICT      pref.mruVM1.filename = C:\Users\Administrator\Documents\Virtual Machines\seedBox\seedBox.vmx
+2012-04-25T06:53:22.496-07:00| vmx| I120: DICT   pref.mruVM1.displayname = seedBox
+2012-04-25T06:53:22.496-07:00| vmx| I120: DICT --- USER DEFAULTS C:\Users\Administrator\AppData\Roaming\VMware\config.ini 
+2012-04-25T06:53:22.496-07:00| vmx| I120: DICT --- HOST DEFAULTS C:\ProgramData\VMware\VMware Player\config.ini 
+2012-04-25T06:53:22.496-07:00| vmx| I120: DICT installerDefaults.autoSoftwareUpdateEnabled = no
+2012-04-25T06:53:22.496-07:00| vmx| I120: DICT installerDefaults.componentDownloadEnabled = yes
+2012-04-25T06:53:22.496-07:00| vmx| I120: DICT installerDefaults.dataCollectionEnabled = no
+2012-04-25T06:53:22.496-07:00| vmx| I120: DICT --- SITE DEFAULTS C:\ProgramData\VMware\VMware Player\config.ini 
+2012-04-25T06:53:22.496-07:00| vmx| I120: DICT installerDefaults.autoSoftwareUpdateEnabled = no
+2012-04-25T06:53:22.496-07:00| vmx| I120: DICT installerDefaults.componentDownloadEnabled = yes
+2012-04-25T06:53:22.496-07:00| vmx| I120: DICT installerDefaults.dataCollectionEnabled = no
+2012-04-25T06:53:22.496-07:00| vmx| I120: DICT --- NONPERSISTENT
+2012-04-25T06:53:22.496-07:00| vmx| I120: DICT  snapshot.numRollingTiers = 0
+2012-04-25T06:53:22.496-07:00| vmx| I120: DICT RemoteDisplay.vnc.enabled = FALSE
+2012-04-25T06:53:22.496-07:00| vmx| I120: DICT            vmx.stdio.keep = TRUE
+2012-04-25T06:53:22.496-07:00| vmx| I120: DICT             gui.available = TRUE
+2012-04-25T06:53:22.496-07:00| vmx| I120: DICT --- COMMAND LINE
+2012-04-25T06:53:22.496-07:00| vmx| I120: DICT  snapshot.numRollingTiers = 0
+2012-04-25T06:53:22.496-07:00| vmx| I120: DICT RemoteDisplay.vnc.enabled = FALSE
+2012-04-25T06:53:22.496-07:00| vmx| I120: DICT            vmx.stdio.keep = TRUE
+2012-04-25T06:53:22.496-07:00| vmx| I120: DICT             gui.available = TRUE
+2012-04-25T06:53:22.496-07:00| vmx| I120: DICT --- RECORDING
+2012-04-25T06:53:22.496-07:00| vmx| I120: DICT  snapshot.numRollingTiers = 0
+2012-04-25T06:53:22.496-07:00| vmx| I120: DICT RemoteDisplay.vnc.enabled = FALSE
+2012-04-25T06:53:22.496-07:00| vmx| I120: DICT            vmx.stdio.keep = TRUE
+2012-04-25T06:53:22.496-07:00| vmx| I120: DICT             gui.available = TRUE
+2012-04-25T06:53:22.496-07:00| vmx| I120: DICT --- CONFIGURATION X:\fileserver\weblinux\weblinux core 2.0\weblinux core 2.0.vmx 
+2012-04-25T06:53:22.496-07:00| vmx| I120: DICT            config.version = 8
+2012-04-25T06:53:22.496-07:00| vmx| I120: DICT         virtualHW.version = 8
+2012-04-25T06:53:22.496-07:00| vmx| I120: DICT               vcpu.hotadd = TRUE
+2012-04-25T06:53:22.496-07:00| vmx| I120: DICT             scsi0.present = TRUE
+2012-04-25T06:53:22.496-07:00| vmx| I120: DICT          scsi0.virtualDev = lsilogic
+2012-04-25T06:53:22.496-07:00| vmx| I120: DICT                   memsize = 1024
+2012-04-25T06:53:22.496-07:00| vmx| I120: DICT                mem.hotadd = TRUE
+2012-04-25T06:53:22.496-07:00| vmx| I120: DICT           scsi0:0.present = TRUE
+2012-04-25T06:53:22.496-07:00| vmx| I120: DICT          scsi0:0.fileName = weblinux core 2.0-1.vmdk
+2012-04-25T06:53:22.496-07:00| vmx| I120: DICT            ide1:0.present = TRUE
+2012-04-25T06:53:22.496-07:00| vmx| I120: DICT           ide1:0.fileName = auto detect
+2012-04-25T06:53:22.496-07:00| vmx| I120: DICT         ide1:0.deviceType = cdrom-raw
+2012-04-25T06:53:22.496-07:00| vmx| I120: DICT          floppy0.fileType = device
+2012-04-25T06:53:22.496-07:00| vmx| I120: DICT          floppy0.fileName = 
+2012-04-25T06:53:22.496-07:00| vmx| I120: DICT      floppy0.clientDevice = FALSE
+2012-04-25T06:53:22.496-07:00| vmx| I120: DICT         ethernet0.present = TRUE
+2012-04-25T06:53:22.496-07:00| vmx| I120: DICT  ethernet0.connectionType = nat
+2012-04-25T06:53:22.496-07:00| vmx| I120: DICT   ethernet0.wakeOnPcktRcv = FALSE
+2012-04-25T06:53:22.496-07:00| vmx| I120: DICT     ethernet0.addressType = generated
+2012-04-25T06:53:22.496-07:00| vmx| I120: DICT               usb.present = TRUE
+2012-04-25T06:53:22.496-07:00| vmx| I120: DICT              ehci.present = TRUE
+2012-04-25T06:53:22.496-07:00| vmx| I120: DICT             sound.present = TRUE
+2012-04-25T06:53:22.496-07:00| vmx| I120: DICT            sound.fileName = -1
+2012-04-25T06:53:22.496-07:00| vmx| I120: DICT          sound.autodetect = TRUE
+2012-04-25T06:53:22.496-07:00| vmx| I120: DICT           serial0.present = TRUE
+2012-04-25T06:53:22.496-07:00| vmx| I120: DICT          serial0.fileType = thinprint
+2012-04-25T06:53:22.496-07:00| vmx| I120: DICT        pciBridge0.present = TRUE
+2012-04-25T06:53:22.496-07:00| vmx| I120: DICT        pciBridge4.present = TRUE
+2012-04-25T06:53:22.496-07:00| vmx| I120: DICT     pciBridge4.virtualDev = pcieRootPort
+2012-04-25T06:53:22.496-07:00| vmx| I120: DICT      pciBridge4.functions = 8
+2012-04-25T06:53:22.496-07:00| vmx| I120: DICT        pciBridge5.present = TRUE
+2012-04-25T06:53:22.496-07:00| vmx| I120: DICT     pciBridge5.virtualDev = pcieRootPort
+2012-04-25T06:53:22.496-07:00| vmx| I120: DICT      pciBridge5.functions = 8
+2012-04-25T06:53:22.496-07:00| vmx| I120: DICT        pciBridge6.present = TRUE
+2012-04-25T06:53:22.496-07:00| vmx| I120: DICT     pciBridge6.virtualDev = pcieRootPort
+2012-04-25T06:53:22.496-07:00| vmx| I120: DICT      pciBridge6.functions = 8
+2012-04-25T06:53:22.496-07:00| vmx| I120: DICT        pciBridge7.present = TRUE
+2012-04-25T06:53:22.496-07:00| vmx| I120: DICT     pciBridge7.virtualDev = pcieRootPort
+2012-04-25T06:53:22.496-07:00| vmx| I120: DICT      pciBridge7.functions = 8
+2012-04-25T06:53:22.496-07:00| vmx| I120: DICT             vmci0.present = TRUE
+2012-04-25T06:53:22.496-07:00| vmx| I120: DICT             hpet0.present = TRUE
+2012-04-25T06:53:22.496-07:00| vmx| I120: DICT usb.vbluetooth.startConnected = TRUE
+2012-04-25T06:53:22.496-07:00| vmx| I120: DICT               displayName = weblinux core 2.0
+2012-04-25T06:53:22.496-07:00| vmx| I120: DICT                   guestOS = ubuntu
+2012-04-25T06:53:22.496-07:00| vmx| I120: DICT                     nvram = weblinux core 2.0.nvram
+2012-04-25T06:53:22.496-07:00| vmx| I120: DICT virtualHW.productCompatibility = hosted
+2012-04-25T06:53:22.496-07:00| vmx| I120: DICT          gui.exitOnCLIHLT = FALSE
+2012-04-25T06:53:22.496-07:00| vmx| I120: DICT        powerType.powerOff = hard
+2012-04-25T06:53:22.496-07:00| vmx| I120: DICT         powerType.powerOn = hard
+2012-04-25T06:53:22.496-07:00| vmx| I120: DICT         powerType.suspend = hard
+2012-04-25T06:53:22.496-07:00| vmx| I120: DICT           powerType.reset = hard
+2012-04-25T06:53:22.496-07:00| vmx| I120: DICT        extendedConfigFile = weblinux core 2.0.vmxf
+2012-04-25T06:53:22.496-07:00| vmx| I120: DICT ethernet0.generatedAddress = 00:0c:29:d4:4f:df
+2012-04-25T06:53:22.496-07:00| vmx| I120: DICT                  vmci0.id = 886329311
+2012-04-25T06:53:22.496-07:00| vmx| I120: DICT             uuid.location = 56 4d 32 59 7a ad 78 be-46 fe 4b 7c 34 d4 4f df
+2012-04-25T06:53:22.496-07:00| vmx| I120: DICT                 uuid.bios = 56 4d 32 59 7a ad 78 be-46 fe 4b 7c 34 d4 4f df
+2012-04-25T06:53:22.496-07:00| vmx| I120: DICT             cleanShutdown = FALSE
+2012-04-25T06:53:22.496-07:00| vmx| I120: DICT          replay.supported = FALSE
+2012-04-25T06:53:22.496-07:00| vmx| I120: DICT           replay.filename = 
+2012-04-25T06:53:22.496-07:00| vmx| I120: DICT              scsi0:0.redo = 
+2012-04-25T06:53:22.496-07:00| vmx| I120: DICT  pciBridge0.pciSlotNumber = 17
+2012-04-25T06:53:22.496-07:00| vmx| I120: DICT  pciBridge4.pciSlotNumber = 21
+2012-04-25T06:53:22.496-07:00| vmx| I120: DICT  pciBridge5.pciSlotNumber = 22
+2012-04-25T06:53:22.496-07:00| vmx| I120: DICT  pciBridge6.pciSlotNumber = 23
+2012-04-25T06:53:22.496-07:00| vmx| I120: DICT  pciBridge7.pciSlotNumber = 24
+2012-04-25T06:53:22.496-07:00| vmx| I120: DICT       scsi0.pciSlotNumber = 16
+2012-04-25T06:53:22.496-07:00| vmx| I120: DICT         usb.pciSlotNumber = 32
+2012-04-25T06:53:22.496-07:00| vmx| I120: DICT   ethernet0.pciSlotNumber = 33
+2012-04-25T06:53:22.496-07:00| vmx| I120: DICT       sound.pciSlotNumber = 34
+2012-04-25T06:53:22.496-07:00| vmx| I120: DICT        ehci.pciSlotNumber = 35
+2012-04-25T06:53:22.496-07:00| vmx| I120: DICT       vmci0.pciSlotNumber = 36
+2012-04-25T06:53:22.496-07:00| vmx| I120: DICT             usb:1.present = TRUE
+2012-04-25T06:53:22.496-07:00| vmx| I120: DICT ethernet0.generatedAddressOffset = 0
+2012-04-25T06:53:22.496-07:00| vmx| I120: DICT  vmotion.checkpointFBSize = 33554432
+2012-04-25T06:53:22.496-07:00| vmx| I120: DICT               usb:1.speed = 2
+2012-04-25T06:53:22.496-07:00| vmx| I120: DICT          usb:1.deviceType = hub
+2012-04-25T06:53:22.496-07:00| vmx| I120: DICT                usb:1.port = 1
+2012-04-25T06:53:22.496-07:00| vmx| I120: DICT              usb:1.parent = -1
+2012-04-25T06:53:22.496-07:00| vmx| I120: DICT        floppy0.autodetect = TRUE
+2012-04-25T06:53:22.496-07:00| vmx| I120: DICT         ide1:0.autodetect = TRUE
+2012-04-25T06:53:22.496-07:00| vmx| I120: DICT            ide0:0.present = FALSE
+2012-04-25T06:53:22.496-07:00| vmx| I120: DICT             usb:0.present = TRUE
+2012-04-25T06:53:22.496-07:00| vmx| I120: DICT          usb:0.deviceType = hid
+2012-04-25T06:53:22.496-07:00| vmx| I120: DICT                usb:0.port = 0
+2012-04-25T06:53:22.496-07:00| vmx| I120: DICT              usb:0.parent = -1
+2012-04-25T06:53:22.496-07:00| vmx| I120: DICT --- USER DEFAULTS C:\Users\Administrator\AppData\Roaming\VMware\config.ini 
+2012-04-25T06:53:22.496-07:00| vmx| I120: DICT --- HOST DEFAULTS C:\ProgramData\VMware\VMware Workstation\config.ini 
+2012-04-25T06:53:22.496-07:00| vmx| I120: DICT --- SITE DEFAULTS C:\ProgramData\VMware\VMware Workstation\config.ini 
+2012-04-25T06:53:22.496-07:00| vmx| I120: DICT --- GLOBAL SETTINGS C:\ProgramData\VMware\VMware Workstation\settings.ini 
+2012-04-25T06:53:22.496-07:00| vmx| I120: Vix: [3292 mainDispatch.c:4067]: VMAutomation_ReportPowerOpFinished: statevar=1, newAppState=1873, success=1 additionalError=0
+2012-04-25T06:53:22.512-07:00| vmx| I120: hostCpuFeatures = 0x127003ff
+2012-04-25T06:53:22.512-07:00| vmx| I120: hostNumGenPerfCounters = 4
+2012-04-25T06:53:22.512-07:00| vmx| I120: hostNumFixedPerfCounters = 0
+2012-04-25T06:53:22.512-07:00| vmx| I120: CPU0: PMC: K7 GH [c:0 f:1 e:0]
+2012-04-25T06:53:22.512-07:00| vmx| I120: CPU1: PMC: K7 GH [c:0 f:1 e:0]
+2012-04-25T06:53:22.512-07:00| vmx| I120: CPU2: PMC: K7 GH [c:0 f:1 e:0]
+2012-04-25T06:53:22.512-07:00| vmx| I120: CPU3: PMC: K7 GH [c:0 f:1 e:0]
+2012-04-25T06:53:22.512-07:00| vmx| I120: CPU4: PMC: K7 GH [c:0 f:1 e:0]
+2012-04-25T06:53:22.512-07:00| vmx| I120: CPU5: PMC: K7 GH [c:0 f:1 e:0]
+2012-04-25T06:53:22.512-07:00| vmx| I120: MONITOR MODE: allowed modes          : BT
+2012-04-25T06:53:22.512-07:00| vmx| I120: MONITOR MODE: user requested modes   : BT HV HWMMU
+2012-04-25T06:53:22.512-07:00| vmx| I120: MONITOR MODE: guestOS preferred modes: HWMMU BT HV
+2012-04-25T06:53:22.512-07:00| vmx| I120: MONITOR MODE: filtered list          : BT
+2012-04-25T06:53:22.512-07:00| vmx| I120: HV Settings: virtual exec = 'software'; virtual mmu = 'software'
+2012-04-25T06:53:22.512-07:00| vmx| I120: SVGA: Maximum display topology 3840x1920.
+2012-04-25T06:53:22.512-07:00| vmx| I120: WSSCAN: reserved mem (in MB) min=128 max=5949 recommended=5949
+2012-04-25T06:53:22.512-07:00| vmx| I120: WSSCAN: used rec mem (in MB) 5949
+2012-04-25T06:53:22.512-07:00| vmx| I120: PShare: enabled 1 adaptive 1 scanRate [16, 400]
+2012-04-25T06:53:22.512-07:00| vmx| I120: WSSCAN: 271033 9857 262144 8192
+2012-04-25T06:53:22.528-07:00| vmx| I120: WSSCAN 2 88187 1506560 1883739 1522944 1774471 50 86113
+2012-04-25T06:53:22.528-07:00| vmx| W110: NUMA: automatic VM sizing request ignored
+2012-04-25T06:53:22.528-07:00| WinNotifyThread| I120: VTHREAD start thread 4 "WinNotifyThread" host id 2364
+2012-04-25T06:53:22.528-07:00| WinNotifyThread| I120: WinNotify thread is alive
+2012-04-25T06:53:22.528-07:00| vmx| I120: LICENSE: Running in restricted mode
+2012-04-25T06:53:22.528-07:00| vmx| I120: Host IPI vectors: 0x2f 0.  Monitor IPI vector: 0
+2012-04-25T06:53:22.528-07:00| vmx| I120: Monitor_PowerOn: HostedVSMP skew tracking is disabled
+2012-04-25T06:53:22.528-07:00| vmx| I120: Monitor64_PowerOn()
+2012-04-25T06:53:22.528-07:00| vmx| I120: Loaded worldswitch: .wsBody64.  Size = 480.
+2012-04-25T06:53:22.528-07:00| vmx| I120: Successfully loaded worldswitch fault handlers from .switchNMI.  Size = 240.
+2012-04-25T06:53:22.528-07:00| vmx| I120: vmm64-modules: [vmm.vmm64 .data:0xfffffffffc056000-0xdb8 .shared_per_vm:0xfffffffffc057000-0x1dbc0 .shared_per_vcpu_vmx:0xfffffffffc077000-0x1dd9 .shared_vmm_vmk:0xfffffffffc079000-0x700 .shared_inter_vcpu_vmk:0xfffffffffc07b000-0x1c0 .shared_inter_vcpu_vmx:0xfffffffffc07c000-0x1880 .bss:0xfffffffffc07e000-0x13e44 .rodata:0xfffffffffc200000-0x199ed .text:0xfffffffffc21a000-0x81abd .eh_frame:0xfffffffffc2aa000-0x1b58 .statvars:0x1000-0x0, mmu-nohv.vmm64 .rodata:0xfffffffffc219a00-0x116 .data:0xfffffffffc056db8-0x4 .shared_per_vm:0xfffffffffc074bc0-0x2c0 .shared_per_vcpu_vmx:0x3000-0x0 .shared_vmm_vmk:0x3000-0x0 .shared_inter_vcpu_vmk:0xfffffffffc07b1c0-0x40 .shared_inter_vcpu_vmx:0x4000-0x0 .bss:0xfffffffffc091e60-0x1e54 .text:0xfffffffffc29bac0-0xb93a .comment:0xcf0-0x10e .patchtext:0x540-0x90 .statvars:0x2000-0x0 .shared_per_vm_meta:0x2850-0x1b0 .shared_inter_vcpu_vmk_meta:0xf0-0x30, vprobe-none.vmm64 .data:0xfffffffffc056dc0-0x8 .shared_per_vm:0x1000-0x0 .shared_per_vcpu_vmx:0x1000-0x0 .shared_vmm_vmk:0x1000-0x0 .shared_inter_vcpu_vmk:0x1000-0x0 .shared_inter_vcpu_vmx:0x1000-0x0 .bss:0xfffffffffc093cc0-0x88 .text:0xfffffffffc2a73fc-0x26 .comment:0xdfe-0x12 .statvars:0x1000-0x0, hv-none.vmm64 .rodata:0xfffffffffc219b18-0x4 .data:0x1000-0x0 .shared_per_vm:0xfffffffffc074e80-0x40 .shared_per_vcpu_vmx:0x2000-0x0 .shared_vmm_vmk:0x2000-0x0 .shared_inter_vcpu_vmk:0x2000-0x0 .shared_inter_vcpu_vmx:0xfffffffffc07d880-0x40 .bss:0xfffffffffc093d48-0x6 .text:0xfffffffffc2a7424-0x2bb .comment:0xe10-0x6c .statvars:0x1000-0x0 .shared_per_vm_meta:0x2a00-0x60 .shared_inter_vcpu_vmx_meta:0x180-0x30, gphys-sw.vmm64 .rodata:0xfffffffffc219b20-0x28 .data:0x1000-0x0 .shared_per_vm:0xfffffffffc074ec0-0xc0 .shared_per_vcpu_vmx:0x2000-0x0 .shared_vmm_vmk:0x2000-0x0 .shared_inter_vcpu_vmk:0x2000-0x0 .shared_inter_vcpu_vmx:0x2000-0x0 .bss:0xfffffffffc093d50-0x60 .text:0xfffffffffc2a76e0-0x2808 .patchtext:0x5d0-0x20 .comment:0xe7c-0x12 .statvars:0x1000-0x0 .shared_per_vm_meta:0x2a60-0x330, vmsafe-none.vmm64 .shared_per_vm:0xfffffffffc074f80-0x40 .shared_per_vcpu_vmx:0x1000-0x0 .shared_vmm_vmk:0x1000-0x0 .shared_inter_vcpu_vmk:0x1000-0x0 .shared_inter_vcpu_vmx:0x1000-0x0 .bss:0x1000-0x0 .text:0xfffffffffc2a9ee8-0x1b .comment:0xe8e-0x12 .shared_per_vm_meta:0x2d90-0x30, callstack-none.vmm64 .text:0xfffffffffc2a9f04-0x2 .comment:0xea0-0x12 .scb:0x1980-0x60, vmce-none.vmm64 .text:0xfffffffffc2a9f08-0x3d .comment:0xeb2-0x12, {SharedInterVcpuVmxSection} .shared_per_vm:0xfffffffffc075000-0x2000, {SharedInterVcpuVmkSection} .shared_vmm_vmk:0xfffffffffc07a000-0x1000, <MonSrcFile> .rodata:0xfffffffffc219b48-0x3f4]
+2012-04-25T06:53:22.528-07:00| vmx| I120: vmm64-vcpus:  1
+2012-04-25T06:53:22.528-07:00| vmx| I120: KHZEstimate 2712177
+2012-04-25T06:53:22.528-07:00| vmx| I120: MHZEstimate 2712
+2012-04-25T06:53:22.528-07:00| vmx| I120: NumVCPUs 1
+2012-04-25T06:53:22.528-07:00| vmx| I120: BusMemServices: page checkRate 16
+2012-04-25T06:53:22.528-07:00| vmx| I120: UUID: location-UUID is 56 4d 83 0e 7a fb 4d 93-74 8a f1 1a 64 bf 5b 8b
+2012-04-25T06:53:22.528-07:00| vmx| I120: UUID: location-UUID is 56 4d be 6e 6b 29 27 6a-16 85 41 83 d9 9d 40 40
+2012-04-25T06:53:22.528-07:00| vmx| I120: UUID: location-UUID is 56 4d be 6e 6b 29 27 6a-16 85 41 83 d9 9d 40 40
+2012-04-25T06:53:22.528-07:00| vmx| I120: UUID: location-UUID is 56 4d be 6e 6b 29 27 6a-16 85 41 83 d9 9d 40 40
+2012-04-25T06:53:22.528-07:00| vmx| I120: Msg_Question:
+2012-04-25T06:53:22.528-07:00| vmx| I120: [msg.uuid.altered] This virtual machine might have been moved or copied.
+2012-04-25T06:53:22.528-07:00| vmx| I120+ In order to configure certain management and networking features, VMware Player needs to know if this virtual machine was moved or copied. 
+2012-04-25T06:53:22.528-07:00| vmx| I120+ 
+2012-04-25T06:53:22.528-07:00| vmx| I120+ If you don't know, answer "I copied it".
+2012-04-25T06:53:22.528-07:00| vmx| I120: 
+2012-04-25T06:53:22.528-07:00| vmx| I120: ----------------------------------------
+2012-04-25T06:53:30.718-07:00| vmx| I120: MsgQuestion: msg.uuid.altered reply=2
+2012-04-25T06:53:30.718-07:00| vmx| I120: UUID: Writing uuid.bios value: '56 4d be 6e 6b 29 27 6a-16 85 41 83 d9 9d 40 40'
+2012-04-25T06:53:30.718-07:00| vmx| I120: UUID: Writing uuid.location value: '56 4d be 6e 6b 29 27 6a-16 85 41 83 d9 9d 40 40'
+2012-04-25T06:53:30.764-07:00| vthread-5| I120: VTHREAD start thread 5 "vthread-5" host id 5056
+2012-04-25T06:53:30.764-07:00| vmx| I120: AIOGNRC: numThreads=18 ide=0, scsi=1, passthru=1
+2012-04-25T06:53:30.764-07:00| vmx| I120: WORKER: Creating new group with numThreads=18 (18)
+2012-04-25T06:53:30.796-07:00| vmx| I120: StateLogger::Replay State = 0
+2012-04-25T06:53:30.796-07:00| vmx| I120: StateLogger::minDEThreshold: 108
+2012-04-25T06:53:30.811-07:00| vmx| I120: WORKER: Creating new group with numThreads=1 (19)
+2012-04-25T06:53:30.811-07:00| vmx| I120: MainMem: CPT Host WZ=0 SOR=1 PF=1024
+2012-04-25T06:53:30.811-07:00| vmx| I120: MainMem: CPT PLS=1 PLR=1 BS=1 BufM=0 BlkP=32 Mult=4 W=50
+2012-04-25T06:53:30.811-07:00| vmx| I120: UUID: location-UUID is 56 4d be 6e 6b 29 27 6a-16 85 41 83 d9 9d 40 40
+2012-04-25T06:53:30.827-07:00| vmx| I120: MainMem: Opened paging file, 'X:\fileserver\weblinux\weblinux core 2.0\564dbe6e-6b29-276a-1685-4183d99d4040.vmem'.
+2012-04-25T06:53:30.827-07:00| vmx| I120: MStat: Creating Stat vm.uptime
+2012-04-25T06:53:30.827-07:00| vmx| I120: MStat: Creating Stat vm.suspendTime
+2012-04-25T06:53:30.827-07:00| vmx| I120: MStat: Creating Stat vm.powerOnTimeStamp
+2012-04-25T06:53:30.827-07:00| aioCompletion| I120: VTHREAD start thread 6 "aioCompletion" host id 3696
+2012-04-25T06:53:30.827-07:00| vmx| I120: VMXAIOMGR: Using: simple=Generic unbuf=Compl
+2012-04-25T06:53:30.827-07:00| vmx| I120: WORKER: Creating new group with numThreads=1 (20)
+2012-04-25T06:53:30.827-07:00| vmx| I120: DISK: OPEN scsi0:0 'X:\fileserver\weblinux\weblinux core 2.0\weblinux core 2.0-1.vmdk' persistent R[]
+2012-04-25T06:53:33.635-07:00| vmx| I120: FILE: WaitForPossession timeout on 'X:\fileserver\weblinux\weblinux core 2.0\weblinux core 2.0-1.vmdk.lck\M00225.lck' due to another machine (uuid=31-43-36-46-36-35-35-34-36-39-34-41-ff-ff-ff-ff)
+2012-04-25T06:53:33.635-07:00| vmx| W110: FILE: FileIO_Lock on 'X:\fileserver\weblinux\weblinux core 2.0\weblinux core 2.0-1.vmdk' failed: Lock timed out
+2012-04-25T06:53:33.635-07:00| vmx| I120: AIOMGR: AIOMgr_OpenWithRetry: Descriptor file 'X:\fileserver\weblinux\weblinux core 2.0\weblinux core 2.0-1.vmdk' locked (try 0)
+2012-04-25T06:53:36.755-07:00| vmx| I120: FILE: WaitForPossession timeout on 'X:\fileserver\weblinux\weblinux core 2.0\weblinux core 2.0-1.vmdk.lck\M00225.lck' due to another machine (uuid=31-43-36-46-36-35-35-34-36-39-34-41-ff-ff-ff-ff)
+2012-04-25T06:53:36.755-07:00| vmx| W110: FILE: FileIO_Lock on 'X:\fileserver\weblinux\weblinux core 2.0\weblinux core 2.0-1.vmdk' failed: Lock timed out
+2012-04-25T06:53:36.755-07:00| vmx| I120: AIOMGR: AIOMgr_OpenWithRetry: Descriptor file 'X:\fileserver\weblinux\weblinux core 2.0\weblinux core 2.0-1.vmdk' locked (try 1)
+2012-04-25T06:53:39.875-07:00| vmx| I120: FILE: WaitForPossession timeout on 'X:\fileserver\weblinux\weblinux core 2.0\weblinux core 2.0-1.vmdk.lck\M00225.lck' due to another machine (uuid=31-43-36-46-36-35-35-34-36-39-34-41-ff-ff-ff-ff)
+2012-04-25T06:53:39.875-07:00| vmx| W110: FILE: FileIO_Lock on 'X:\fileserver\weblinux\weblinux core 2.0\weblinux core 2.0-1.vmdk' failed: Lock timed out
+2012-04-25T06:53:39.875-07:00| vmx| I120: AIOMGR: AIOMgr_OpenWithRetry: Descriptor file 'X:\fileserver\weblinux\weblinux core 2.0\weblinux core 2.0-1.vmdk' locked (try 2)
+2012-04-25T06:53:42.995-07:00| vmx| I120: FILE: WaitForPossession timeout on 'X:\fileserver\weblinux\weblinux core 2.0\weblinux core 2.0-1.vmdk.lck\M00225.lck' due to another machine (uuid=31-43-36-46-36-35-35-34-36-39-34-41-ff-ff-ff-ff)
+2012-04-25T06:53:42.995-07:00| vmx| W110: FILE: FileIO_Lock on 'X:\fileserver\weblinux\weblinux core 2.0\weblinux core 2.0-1.vmdk' failed: Lock timed out
+2012-04-25T06:53:42.995-07:00| vmx| I120: AIOMGR: AIOMgr_OpenWithRetry: Descriptor file 'X:\fileserver\weblinux\weblinux core 2.0\weblinux core 2.0-1.vmdk' locked (try 3)
+2012-04-25T06:53:46.115-07:00| vmx| I120: FILE: WaitForPossession timeout on 'X:\fileserver\weblinux\weblinux core 2.0\weblinux core 2.0-1.vmdk.lck\M00225.lck' due to another machine (uuid=31-43-36-46-36-35-35-34-36-39-34-41-ff-ff-ff-ff)
+2012-04-25T06:53:46.115-07:00| vmx| W110: FILE: FileIO_Lock on 'X:\fileserver\weblinux\weblinux core 2.0\weblinux core 2.0-1.vmdk' failed: Lock timed out
+2012-04-25T06:53:46.115-07:00| vmx| I120: AIOMGR: AIOMgr_OpenWithRetry: Descriptor file 'X:\fileserver\weblinux\weblinux core 2.0\weblinux core 2.0-1.vmdk' locked (try 4)
+2012-04-25T06:53:49.235-07:00| vmx| I120: FILE: WaitForPossession timeout on 'X:\fileserver\weblinux\weblinux core 2.0\weblinux core 2.0-1.vmdk.lck\M00225.lck' due to another machine (uuid=31-43-36-46-36-35-35-34-36-39-34-41-ff-ff-ff-ff)
+2012-04-25T06:53:49.235-07:00| vmx| W110: FILE: FileIO_Lock on 'X:\fileserver\weblinux\weblinux core 2.0\weblinux core 2.0-1.vmdk' failed: Lock timed out
+2012-04-25T06:53:49.235-07:00| vmx| I120: DISKLIB-DSCPTR: DescriptorDetermineType: failed to open 'X:\fileserver\weblinux\weblinux core 2.0\weblinux core 2.0-1.vmdk': Failed to lock the file (400000003)
+2012-04-25T06:53:49.235-07:00| vmx| I120: DISKLIB-LINK  : "X:\fileserver\weblinux\weblinux core 2.0\weblinux core 2.0-1.vmdk" : failed to open (Failed to lock the file).  
+2012-04-25T06:53:49.235-07:00| vmx| I120: DISKLIB-CHAIN : "X:\fileserver\weblinux\weblinux core 2.0\weblinux core 2.0-1.vmdk" : failed to open (Failed to lock the file).
+2012-04-25T06:53:49.235-07:00| vmx| I120: DISKLIB-LIB   : Failed to open 'X:\fileserver\weblinux\weblinux core 2.0\weblinux core 2.0-1.vmdk' with flags 0xa Failed to lock the file (16392).
+2012-04-25T06:53:49.235-07:00| vmx| I120: DISK: Cannot open disk "X:\fileserver\weblinux\weblinux core 2.0\weblinux core 2.0-1.vmdk": Failed to lock the file (16392).
+2012-04-25T06:53:49.235-07:00| vmx| I120: Msg_Post: Error
+2012-04-25T06:53:49.235-07:00| vmx| I120: [msg.disk.noBackEnd] Cannot open the disk 'X:\fileserver\weblinux\weblinux core 2.0\weblinux core 2.0-1.vmdk' or one of the snapshot disks it depends on.
+2012-04-25T06:53:49.235-07:00| vmx| I120: [msg.disk.configureDiskError] Reason: Failed to lock the file.
+2012-04-25T06:53:49.235-07:00| vmx| I120: ----------------------------------------
+2012-04-25T06:53:52.573-07:00| vmx| I120: Module DiskEarly power on failed.
+2012-04-25T06:53:52.573-07:00| vmx| I120: VMX_PowerOn: ModuleTable_PowerOn = 0
+2012-04-25T06:53:52.573-07:00| vmx| I120: AIOWIN32C: asyncOps=0 syncOps=0 bufSize=0Kb fixedOps=0 sgOps=0 sgOn=1
+2012-04-25T06:53:52.573-07:00| aioCompletion| I120: AIO thread processed 0 completions
+2012-04-25T06:53:52.573-07:00| vmx| I120: AIOWIN32: asyncOps=0 syncOps=0 bufSize=0Kb delayed=0 fixed=0 sgOp=0 sgOn=1
+2012-04-25T06:53:52.620-07:00| vmx| I120: WORKER: asyncOps=0 maxActiveOps=0 maxPending=0 maxCompleted=0
+2012-04-25T06:53:52.620-07:00| WinNotifyThread| I120: WinNotify thread exiting
+2012-04-25T06:53:52.620-07:00| vmx| I120: Vix: [3292 mainDispatch.c:4067]: VMAutomation_ReportPowerOpFinished: statevar=1, newAppState=1873, success=1 additionalError=0
+2012-04-25T06:53:52.620-07:00| vmx| I120: Vix: [3292 mainDispatch.c:4067]: VMAutomation_ReportPowerOpFinished: statevar=0, newAppState=1870, success=1 additionalError=0
+2012-04-25T06:53:52.620-07:00| vmx| I120: Transitioned vmx/execState/val to poweredOff
+2012-04-25T06:53:52.651-07:00| vmx| I120: Vix: [3292 mainDispatch.c:4067]: VMAutomation_ReportPowerOpFinished: statevar=0, newAppState=1870, success=0 additionalError=0
+2012-04-25T06:53:52.651-07:00| vmx| I120: Vix: [3292 mainDispatch.c:4106]: Error VIX_E_FAIL in VMAutomation_ReportPowerOpFinished(): Unknown error
+2012-04-25T06:53:52.651-07:00| vmx| I120: VMX idle exit
+2012-04-25T06:53:52.651-07:00| vmx| I120: VMIOP: Exit
+2012-04-25T06:53:52.651-07:00| vmx| I120: Vix: [3292 mainDispatch.c:869]: VMAutomation_LateShutdown()
+2012-04-25T06:53:52.651-07:00| vmx| I120: Vix: [3292 mainDispatch.c:819]: VMAutomationCloseListenerSocket. Closing listener socket.
+2012-04-25T06:53:52.651-07:00| vmx| I120: Flushing VMX VMDB connections
+2012-04-25T06:53:52.651-07:00| vmx| I120: VmdbDbRemoveCnx: Removing Cnx from Db for '/db/connection/#1/'
+2012-04-25T06:53:52.651-07:00| vmx| I120: VmdbCnxDisconnect: Disconnect: closed pipe for pub cnx '/db/connection/#1/' (0)
+2012-04-25T06:53:52.651-07:00| vmx| I120: VMX exit (0).
+2012-04-25T06:53:52.651-07:00| vmx| I120: AIOMGR-S : stat o=6 r=0 w=0 i=0 br=0 bw=0
+2012-04-25T06:53:52.651-07:00| vmx| I120: FileTrack_Exit: done

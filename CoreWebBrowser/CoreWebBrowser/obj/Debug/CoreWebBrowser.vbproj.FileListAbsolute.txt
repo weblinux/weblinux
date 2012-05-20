@@ -1,0 +1,10 @@
+y:\weblinux\CoreWebBrowser\CoreWebBrowser\bin\Debug\CoreWebBrowser.exe.config
+y:\weblinux\CoreWebBrowser\CoreWebBrowser\bin\Debug\CoreWebBrowser.exe
+y:\weblinux\CoreWebBrowser\CoreWebBrowser\bin\Debug\CoreWebBrowser.pdb
+y:\weblinux\CoreWebBrowser\CoreWebBrowser\bin\Debug\CoreWebBrowser.xml
+y:\weblinux\CoreWebBrowser\CoreWebBrowser\obj\Debug\CoreWebBrowsre.Form1.resources
+y:\weblinux\CoreWebBrowser\CoreWebBrowser\obj\Debug\CoreWebBrowsre.Resources.resources
+y:\weblinux\CoreWebBrowser\CoreWebBrowser\obj\Debug\CoreWebBrowser.vbproj.GenerateResource.Cache
+y:\weblinux\CoreWebBrowser\CoreWebBrowser\obj\Debug\CoreWebBrowser.exe
+y:\weblinux\CoreWebBrowser\CoreWebBrowser\obj\Debug\CoreWebBrowser.xml
+y:\weblinux\CoreWebBrowser\CoreWebBrowser\obj\Debug\CoreWebBrowser.pdb

@@ -1,0 +1,467 @@
+2012-05-04T16:06:39.491-04:00| vthread-3| I120: Log for VMware Workstation pid=5780 version=8.0.2 build=build-591240 option=Release
+2012-05-04T16:06:39.491-04:00| vthread-3| I120: The process is 32-bit.
+2012-05-04T16:06:39.491-04:00| vthread-3| I120: Host codepage=windows-1252 encoding=windows-1252
+2012-05-04T16:06:39.491-04:00| vthread-3| I120: Host is Windows 7 Enterprise, 64-bit  (Build 7600)
+2012-05-04T16:06:39.479-04:00| vthread-3| I120: Msg_Reset:
+2012-05-04T16:06:39.479-04:00| vthread-3| I120: [msg.dictionary.load.openFailed] Cannot open file "C:\ProgramData\VMware\VMware Workstation\config.ini": The system cannot find the file specified.
+2012-05-04T16:06:39.479-04:00| vthread-3| I120: ----------------------------------------
+2012-05-04T16:06:39.479-04:00| vthread-3| I120: PREF Optional preferences file not found at C:\ProgramData\VMware\VMware Workstation\config.ini. Using default values.
+2012-05-04T16:06:39.479-04:00| vthread-3| I120: Msg_Reset:
+2012-05-04T16:06:39.479-04:00| vthread-3| I120: [msg.dictionary.load.openFailed] Cannot open file "C:\ProgramData\VMware\VMware Workstation\settings.ini": The system cannot find the file specified.
+2012-05-04T16:06:39.479-04:00| vthread-3| I120: ----------------------------------------
+2012-05-04T16:06:39.479-04:00| vthread-3| I120: PREF Optional preferences file not found at C:\ProgramData\VMware\VMware Workstation\settings.ini. Using default values.
+2012-05-04T16:06:39.480-04:00| vthread-3| I120: Msg_Reset:
+2012-05-04T16:06:39.480-04:00| vthread-3| I120: [msg.dictionary.load.openFailed] Cannot open file "C:\ProgramData\VMware\VMware Workstation\config.ini": The system cannot find the file specified.
+2012-05-04T16:06:39.480-04:00| vthread-3| I120: ----------------------------------------
+2012-05-04T16:06:39.480-04:00| vthread-3| I120: PREF Optional preferences file not found at C:\ProgramData\VMware\VMware Workstation\config.ini. Using default values.
+2012-05-04T16:06:39.481-04:00| vthread-3| I120: Msg_Reset:
+2012-05-04T16:06:39.481-04:00| vthread-3| I120: [msg.dictionary.load.openFailed] Cannot open file "C:\Users\admin\AppData\Roaming\VMware\config.ini": The system cannot find the file specified.
+2012-05-04T16:06:39.481-04:00| vthread-3| I120: ----------------------------------------
+2012-05-04T16:06:39.481-04:00| vthread-3| I120: PREF Optional preferences file not found at C:\Users\admin\AppData\Roaming\VMware\config.ini. Using default values.
+2012-05-04T16:06:39.482-04:00| vthread-3| I120: FILE: FileLockDynaLink: Further process validation tools are: available
+2012-05-04T16:06:39.493-04:00| vthread-3| I120: Started, process id = 5780
+2012-05-04T16:06:39.493-04:00| vthread-3| I120:          pipe = \\.\pipe\vmware.vprint.2916.41.0
+2012-05-04T16:06:39.493-04:00| vthread-3| I120:          mutex = Global\vmware.vprint-s.2916.18467.1
+2012-05-04T16:06:39.493-04:00| vthread-3| I120: Path for TPClnVM.dll = 'C:\Program Files (x86)\VMware\VMware Player\TPClnVM.dll'
+2012-05-04T16:06:39.506-04:00| vthread-3| I120: Loaded TPClnVM.dll as C:\Program Files (x86)\VMware\VMware Player\TPClnVM.dll
+2012-05-04T16:06:39.506-04:00| vthread-3| I120: Got entry/stop functions
+2012-05-04T16:06:39.506-04:00| vthread-3| I120: Calling TP 'entry' function
+2012-05-04T16:06:39.637-04:00| vthread-3| I120: Waiting for mutex "Global\vmware.vprint-s.2916.18467.1" ...
+2012-05-04T17:39:29.521-04:00| vthread-3| I120: Mutex signalled
+2012-05-04T17:39:29.521-04:00| vthread-3| I120: Calling TP 'stop' function
+2012-05-04T17:39:30.530-04:00| vthread-3| I120: Cleaned up OK
+2012-05-04T17:39:30.530-04:00| vthread-3| I120: Exit
+2012-05-04T17:39:41.326-04:00| vthread-3| I120: Log for VMware Workstation pid=3788 version=8.0.2 build=build-591240 option=Release
+2012-05-04T17:39:41.326-04:00| vthread-3| I120: The process is 32-bit.
+2012-05-04T17:39:41.326-04:00| vthread-3| I120: Host codepage=windows-1252 encoding=windows-1252
+2012-05-04T17:39:41.326-04:00| vthread-3| I120: Host is Windows 7 Enterprise, 64-bit  (Build 7600)
+2012-05-04T17:39:41.296-04:00| vthread-3| I120: Msg_Reset:
+2012-05-04T17:39:41.296-04:00| vthread-3| I120: [msg.dictionary.load.openFailed] Cannot open file "C:\ProgramData\VMware\VMware Workstation\config.ini": The system cannot find the file specified.
+2012-05-04T17:39:41.296-04:00| vthread-3| I120: ----------------------------------------
+2012-05-04T17:39:41.296-04:00| vthread-3| I120: PREF Optional preferences file not found at C:\ProgramData\VMware\VMware Workstation\config.ini. Using default values.
+2012-05-04T17:39:41.297-04:00| vthread-3| I120: Msg_Reset:
+2012-05-04T17:39:41.297-04:00| vthread-3| I120: [msg.dictionary.load.openFailed] Cannot open file "C:\ProgramData\VMware\VMware Workstation\settings.ini": The system cannot find the file specified.
+2012-05-04T17:39:41.297-04:00| vthread-3| I120: ----------------------------------------
+2012-05-04T17:39:41.297-04:00| vthread-3| I120: PREF Optional preferences file not found at C:\ProgramData\VMware\VMware Workstation\settings.ini. Using default values.
+2012-05-04T17:39:41.298-04:00| vthread-3| I120: Msg_Reset:
+2012-05-04T17:39:41.298-04:00| vthread-3| I120: [msg.dictionary.load.openFailed] Cannot open file "C:\ProgramData\VMware\VMware Workstation\config.ini": The system cannot find the file specified.
+2012-05-04T17:39:41.298-04:00| vthread-3| I120: ----------------------------------------
+2012-05-04T17:39:41.298-04:00| vthread-3| I120: PREF Optional preferences file not found at C:\ProgramData\VMware\VMware Workstation\config.ini. Using default values.
+2012-05-04T17:39:41.302-04:00| vthread-3| I120: Msg_Reset:
+2012-05-04T17:39:41.302-04:00| vthread-3| I120: [msg.dictionary.load.openFailed] Cannot open file "C:\Users\admin\AppData\Roaming\VMware\config.ini": The system cannot find the file specified.
+2012-05-04T17:39:41.302-04:00| vthread-3| I120: ----------------------------------------
+2012-05-04T17:39:41.302-04:00| vthread-3| I120: PREF Optional preferences file not found at C:\Users\admin\AppData\Roaming\VMware\config.ini. Using default values.
+2012-05-04T17:39:41.304-04:00| vthread-3| I120: FILE: FileLockDynaLink: Further process validation tools are: available
+2012-05-04T17:39:41.328-04:00| vthread-3| I120: Started, process id = 3788
+2012-05-04T17:39:41.328-04:00| vthread-3| I120:          pipe = \\.\pipe\vmware.vprint.2916.6334.2
+2012-05-04T17:39:41.328-04:00| vthread-3| I120:          mutex = Global\vmware.vprint-s.2916.26500.3
+2012-05-04T17:39:41.328-04:00| vthread-3| I120: Path for TPClnVM.dll = 'C:\Program Files (x86)\VMware\VMware Player\TPClnVM.dll'
+2012-05-04T17:39:41.347-04:00| vthread-3| I120: Loaded TPClnVM.dll as C:\Program Files (x86)\VMware\VMware Player\TPClnVM.dll
+2012-05-04T17:39:41.347-04:00| vthread-3| I120: Got entry/stop functions
+2012-05-04T17:39:41.347-04:00| vthread-3| I120: Calling TP 'entry' function
+2012-05-04T17:39:41.540-04:00| vthread-3| I120: Waiting for mutex "Global\vmware.vprint-s.2916.26500.3" ...
+2012-05-04T17:40:07.732-04:00| vthread-3| I120: Mutex signalled
+2012-05-04T17:40:07.732-04:00| vthread-3| I120: Calling TP 'stop' function
+2012-05-04T17:40:08.241-04:00| vthread-3| I120: Cleaned up OK
+2012-05-04T17:40:08.241-04:00| vthread-3| I120: Exit
+2012-05-04T17:40:17.337-04:00| vthread-3| I120: Log for VMware Workstation pid=3892 version=8.0.2 build=build-591240 option=Release
+2012-05-04T17:40:17.337-04:00| vthread-3| I120: The process is 32-bit.
+2012-05-04T17:40:17.337-04:00| vthread-3| I120: Host codepage=windows-1252 encoding=windows-1252
+2012-05-04T17:40:17.337-04:00| vthread-3| I120: Host is Windows 7 Enterprise, 64-bit  (Build 7600)
+2012-05-04T17:40:17.324-04:00| vthread-3| I120: Msg_Reset:
+2012-05-04T17:40:17.324-04:00| vthread-3| I120: [msg.dictionary.load.openFailed] Cannot open file "C:\ProgramData\VMware\VMware Workstation\config.ini": The system cannot find the file specified.
+2012-05-04T17:40:17.324-04:00| vthread-3| I120: ----------------------------------------
+2012-05-04T17:40:17.324-04:00| vthread-3| I120: PREF Optional preferences file not found at C:\ProgramData\VMware\VMware Workstation\config.ini. Using default values.
+2012-05-04T17:40:17.324-04:00| vthread-3| I120: Msg_Reset:
+2012-05-04T17:40:17.324-04:00| vthread-3| I120: [msg.dictionary.load.openFailed] Cannot open file "C:\ProgramData\VMware\VMware Workstation\settings.ini": The system cannot find the file specified.
+2012-05-04T17:40:17.324-04:00| vthread-3| I120: ----------------------------------------
+2012-05-04T17:40:17.324-04:00| vthread-3| I120: PREF Optional preferences file not found at C:\ProgramData\VMware\VMware Workstation\settings.ini. Using default values.
+2012-05-04T17:40:17.325-04:00| vthread-3| I120: Msg_Reset:
+2012-05-04T17:40:17.325-04:00| vthread-3| I120: [msg.dictionary.load.openFailed] Cannot open file "C:\ProgramData\VMware\VMware Workstation\config.ini": The system cannot find the file specified.
+2012-05-04T17:40:17.325-04:00| vthread-3| I120: ----------------------------------------
+2012-05-04T17:40:17.325-04:00| vthread-3| I120: PREF Optional preferences file not found at C:\ProgramData\VMware\VMware Workstation\config.ini. Using default values.
+2012-05-04T17:40:17.327-04:00| vthread-3| I120: Msg_Reset:
+2012-05-04T17:40:17.327-04:00| vthread-3| I120: [msg.dictionary.load.openFailed] Cannot open file "C:\Users\admin\AppData\Roaming\VMware\config.ini": The system cannot find the file specified.
+2012-05-04T17:40:17.327-04:00| vthread-3| I120: ----------------------------------------
+2012-05-04T17:40:17.327-04:00| vthread-3| I120: PREF Optional preferences file not found at C:\Users\admin\AppData\Roaming\VMware\config.ini. Using default values.
+2012-05-04T17:40:17.328-04:00| vthread-3| I120: FILE: FileLockDynaLink: Further process validation tools are: available
+2012-05-04T17:40:17.338-04:00| vthread-3| I120: Started, process id = 3892
+2012-05-04T17:40:17.338-04:00| vthread-3| I120:          pipe = \\.\pipe\vmware.vprint.2916.19169.4
+2012-05-04T17:40:17.338-04:00| vthread-3| I120:          mutex = Global\vmware.vprint-s.2916.15724.5
+2012-05-04T17:40:17.338-04:00| vthread-3| I120: Path for TPClnVM.dll = 'C:\Program Files (x86)\VMware\VMware Player\TPClnVM.dll'
+2012-05-04T17:40:17.339-04:00| vthread-3| I120: Loaded TPClnVM.dll as C:\Program Files (x86)\VMware\VMware Player\TPClnVM.dll
+2012-05-04T17:40:17.339-04:00| vthread-3| I120: Got entry/stop functions
+2012-05-04T17:40:17.339-04:00| vthread-3| I120: Calling TP 'entry' function
+2012-05-04T17:40:17.369-04:00| vthread-3| I120: Waiting for mutex "Global\vmware.vprint-s.2916.15724.5" ...
+2012-05-04T17:40:29.982-04:00| vthread-3| I120: Mutex signalled
+2012-05-04T17:40:29.982-04:00| vthread-3| I120: Calling TP 'stop' function
+2012-05-04T17:40:30.489-04:00| vthread-3| I120: Cleaned up OK
+2012-05-04T17:40:30.489-04:00| vthread-3| I120: Exit
+2012-05-04T17:40:39.563-04:00| vthread-3| I120: Log for VMware Workstation pid=3820 version=8.0.2 build=build-591240 option=Release
+2012-05-04T17:40:39.563-04:00| vthread-3| I120: The process is 32-bit.
+2012-05-04T17:40:39.563-04:00| vthread-3| I120: Host codepage=windows-1252 encoding=windows-1252
+2012-05-04T17:40:39.563-04:00| vthread-3| I120: Host is Windows 7 Enterprise, 64-bit  (Build 7600)
+2012-05-04T17:40:39.552-04:00| vthread-3| I120: Msg_Reset:
+2012-05-04T17:40:39.552-04:00| vthread-3| I120: [msg.dictionary.load.openFailed] Cannot open file "C:\ProgramData\VMware\VMware Workstation\config.ini": The system cannot find the file specified.
+2012-05-04T17:40:39.552-04:00| vthread-3| I120: ----------------------------------------
+2012-05-04T17:40:39.552-04:00| vthread-3| I120: PREF Optional preferences file not found at C:\ProgramData\VMware\VMware Workstation\config.ini. Using default values.
+2012-05-04T17:40:39.552-04:00| vthread-3| I120: Msg_Reset:
+2012-05-04T17:40:39.552-04:00| vthread-3| I120: [msg.dictionary.load.openFailed] Cannot open file "C:\ProgramData\VMware\VMware Workstation\settings.ini": The system cannot find the file specified.
+2012-05-04T17:40:39.552-04:00| vthread-3| I120: ----------------------------------------
+2012-05-04T17:40:39.552-04:00| vthread-3| I120: PREF Optional preferences file not found at C:\ProgramData\VMware\VMware Workstation\settings.ini. Using default values.
+2012-05-04T17:40:39.552-04:00| vthread-3| I120: Msg_Reset:
+2012-05-04T17:40:39.552-04:00| vthread-3| I120: [msg.dictionary.load.openFailed] Cannot open file "C:\ProgramData\VMware\VMware Workstation\config.ini": The system cannot find the file specified.
+2012-05-04T17:40:39.552-04:00| vthread-3| I120: ----------------------------------------
+2012-05-04T17:40:39.552-04:00| vthread-3| I120: PREF Optional preferences file not found at C:\ProgramData\VMware\VMware Workstation\config.ini. Using default values.
+2012-05-04T17:40:39.554-04:00| vthread-3| I120: Msg_Reset:
+2012-05-04T17:40:39.554-04:00| vthread-3| I120: [msg.dictionary.load.openFailed] Cannot open file "C:\Users\admin\AppData\Roaming\VMware\config.ini": The system cannot find the file specified.
+2012-05-04T17:40:39.554-04:00| vthread-3| I120: ----------------------------------------
+2012-05-04T17:40:39.554-04:00| vthread-3| I120: PREF Optional preferences file not found at C:\Users\admin\AppData\Roaming\VMware\config.ini. Using default values.
+2012-05-04T17:40:39.554-04:00| vthread-3| I120: FILE: FileLockDynaLink: Further process validation tools are: available
+2012-05-04T17:40:39.564-04:00| vthread-3| I120: Started, process id = 3820
+2012-05-04T17:40:39.564-04:00| vthread-3| I120:          pipe = \\.\pipe\vmware.vprint.2916.11478.6
+2012-05-04T17:40:39.564-04:00| vthread-3| I120:          mutex = Global\vmware.vprint-s.2916.29358.7
+2012-05-04T17:40:39.564-04:00| vthread-3| I120: Path for TPClnVM.dll = 'C:\Program Files (x86)\VMware\VMware Player\TPClnVM.dll'
+2012-05-04T17:40:39.566-04:00| vthread-3| I120: Loaded TPClnVM.dll as C:\Program Files (x86)\VMware\VMware Player\TPClnVM.dll
+2012-05-04T17:40:39.566-04:00| vthread-3| I120: Got entry/stop functions
+2012-05-04T17:40:39.566-04:00| vthread-3| I120: Calling TP 'entry' function
+2012-05-04T17:40:39.596-04:00| vthread-3| I120: Waiting for mutex "Global\vmware.vprint-s.2916.29358.7" ...
+2012-05-04T17:55:32.115-04:00| vthread-3| I120: Mutex signalled
+2012-05-04T17:55:32.115-04:00| vthread-3| I120: Calling TP 'stop' function
+2012-05-04T17:55:32.624-04:00| vthread-3| I120: Cleaned up OK
+2012-05-04T17:55:32.624-04:00| vthread-3| I120: Exit
+2012-05-04T17:55:47.032-04:00| vthread-3| I120: Log for VMware Workstation pid=792 version=8.0.2 build=build-591240 option=Release
+2012-05-04T17:55:47.032-04:00| vthread-3| I120: The process is 32-bit.
+2012-05-04T17:55:47.032-04:00| vthread-3| I120: Host codepage=windows-1252 encoding=windows-1252
+2012-05-04T17:55:47.032-04:00| vthread-3| I120: Host is Windows 7 Enterprise, 64-bit  (Build 7600)
+2012-05-04T17:55:47.018-04:00| vthread-3| I120: Msg_Reset:
+2012-05-04T17:55:47.018-04:00| vthread-3| I120: [msg.dictionary.load.openFailed] Cannot open file "C:\ProgramData\VMware\VMware Workstation\config.ini": The system cannot find the file specified.
+2012-05-04T17:55:47.018-04:00| vthread-3| I120: ----------------------------------------
+2012-05-04T17:55:47.018-04:00| vthread-3| I120: PREF Optional preferences file not found at C:\ProgramData\VMware\VMware Workstation\config.ini. Using default values.
+2012-05-04T17:55:47.018-04:00| vthread-3| I120: Msg_Reset:
+2012-05-04T17:55:47.018-04:00| vthread-3| I120: [msg.dictionary.load.openFailed] Cannot open file "C:\ProgramData\VMware\VMware Workstation\settings.ini": The system cannot find the file specified.
+2012-05-04T17:55:47.018-04:00| vthread-3| I120: ----------------------------------------
+2012-05-04T17:55:47.018-04:00| vthread-3| I120: PREF Optional preferences file not found at C:\ProgramData\VMware\VMware Workstation\settings.ini. Using default values.
+2012-05-04T17:55:47.019-04:00| vthread-3| I120: Msg_Reset:
+2012-05-04T17:55:47.019-04:00| vthread-3| I120: [msg.dictionary.load.openFailed] Cannot open file "C:\ProgramData\VMware\VMware Workstation\config.ini": The system cannot find the file specified.
+2012-05-04T17:55:47.019-04:00| vthread-3| I120: ----------------------------------------
+2012-05-04T17:55:47.019-04:00| vthread-3| I120: PREF Optional preferences file not found at C:\ProgramData\VMware\VMware Workstation\config.ini. Using default values.
+2012-05-04T17:55:47.021-04:00| vthread-3| I120: Msg_Reset:
+2012-05-04T17:55:47.021-04:00| vthread-3| I120: [msg.dictionary.load.openFailed] Cannot open file "C:\Users\admin\AppData\Roaming\VMware\config.ini": The system cannot find the file specified.
+2012-05-04T17:55:47.021-04:00| vthread-3| I120: ----------------------------------------
+2012-05-04T17:55:47.021-04:00| vthread-3| I120: PREF Optional preferences file not found at C:\Users\admin\AppData\Roaming\VMware\config.ini. Using default values.
+2012-05-04T17:55:47.021-04:00| vthread-3| I120: FILE: FileLockDynaLink: Further process validation tools are: available
+2012-05-04T17:55:47.033-04:00| vthread-3| I120: Started, process id = 792
+2012-05-04T17:55:47.033-04:00| vthread-3| I120:          pipe = \\.\pipe\vmware.vprint.5548.41.0
+2012-05-04T17:55:47.033-04:00| vthread-3| I120:          mutex = Global\vmware.vprint-s.5548.18467.1
+2012-05-04T17:55:47.033-04:00| vthread-3| I120: Path for TPClnVM.dll = 'C:\Program Files (x86)\VMware\VMware Player\TPClnVM.dll'
+2012-05-04T17:55:47.035-04:00| vthread-3| I120: Loaded TPClnVM.dll as C:\Program Files (x86)\VMware\VMware Player\TPClnVM.dll
+2012-05-04T17:55:47.035-04:00| vthread-3| I120: Got entry/stop functions
+2012-05-04T17:55:47.035-04:00| vthread-3| I120: Calling TP 'entry' function
+2012-05-04T17:55:47.066-04:00| vthread-3| I120: Waiting for mutex "Global\vmware.vprint-s.5548.18467.1" ...
+2012-05-05T10:51:55.016-04:00| vthread-3| I120: Log for VMware Workstation pid=504 version=8.0.2 build=build-591240 option=Release
+2012-05-05T10:51:55.016-04:00| vthread-3| I120: The process is 32-bit.
+2012-05-05T10:51:55.016-04:00| vthread-3| I120: Host codepage=windows-1252 encoding=windows-1252
+2012-05-05T10:51:55.016-04:00| vthread-3| I120: Host is Windows 7 Enterprise, 64-bit  (Build 7600)
+2012-05-05T10:51:55.001-04:00| vthread-3| I120: Msg_Reset:
+2012-05-05T10:51:55.001-04:00| vthread-3| I120: [msg.dictionary.load.openFailed] Cannot open file "C:\ProgramData\VMware\VMware Workstation\config.ini": The system cannot find the file specified.
+2012-05-05T10:51:55.001-04:00| vthread-3| I120: ----------------------------------------
+2012-05-05T10:51:55.001-04:00| vthread-3| I120: PREF Optional preferences file not found at C:\ProgramData\VMware\VMware Workstation\config.ini. Using default values.
+2012-05-05T10:51:55.001-04:00| vthread-3| I120: Msg_Reset:
+2012-05-05T10:51:55.001-04:00| vthread-3| I120: [msg.dictionary.load.openFailed] Cannot open file "C:\ProgramData\VMware\VMware Workstation\settings.ini": The system cannot find the file specified.
+2012-05-05T10:51:55.001-04:00| vthread-3| I120: ----------------------------------------
+2012-05-05T10:51:55.001-04:00| vthread-3| I120: PREF Optional preferences file not found at C:\ProgramData\VMware\VMware Workstation\settings.ini. Using default values.
+2012-05-05T10:51:55.001-04:00| vthread-3| I120: Msg_Reset:
+2012-05-05T10:51:55.001-04:00| vthread-3| I120: [msg.dictionary.load.openFailed] Cannot open file "C:\ProgramData\VMware\VMware Workstation\config.ini": The system cannot find the file specified.
+2012-05-05T10:51:55.001-04:00| vthread-3| I120: ----------------------------------------
+2012-05-05T10:51:55.001-04:00| vthread-3| I120: PREF Optional preferences file not found at C:\ProgramData\VMware\VMware Workstation\config.ini. Using default values.
+2012-05-05T10:51:55.001-04:00| vthread-3| I120: Msg_Reset:
+2012-05-05T10:51:55.001-04:00| vthread-3| I120: [msg.dictionary.load.openFailed] Cannot open file "C:\Users\admin\AppData\Roaming\VMware\config.ini": The system cannot find the file specified.
+2012-05-05T10:51:55.001-04:00| vthread-3| I120: ----------------------------------------
+2012-05-05T10:51:55.001-04:00| vthread-3| I120: PREF Optional preferences file not found at C:\Users\admin\AppData\Roaming\VMware\config.ini. Using default values.
+2012-05-05T10:51:55.001-04:00| vthread-3| I120: FILE: FileLockDynaLink: Further process validation tools are: available
+2012-05-05T10:51:55.016-04:00| vthread-3| I120: Started, process id = 504
+2012-05-05T10:51:55.016-04:00| vthread-3| I120:          pipe = \\.\pipe\vmware.vprint.6108.41.0
+2012-05-05T10:51:55.016-04:00| vthread-3| I120:          mutex = Global\vmware.vprint-s.6108.18467.1
+2012-05-05T10:51:55.016-04:00| vthread-3| I120: Path for TPClnVM.dll = 'C:\Program Files (x86)\VMware\VMware Player\TPClnVM.dll'
+2012-05-05T10:51:55.048-04:00| vthread-3| I120: Loaded TPClnVM.dll as C:\Program Files (x86)\VMware\VMware Player\TPClnVM.dll
+2012-05-05T10:51:55.048-04:00| vthread-3| I120: Got entry/stop functions
+2012-05-05T10:51:55.048-04:00| vthread-3| I120: Calling TP 'entry' function
+2012-05-05T10:51:55.328-04:00| vthread-3| I120: Waiting for mutex "Global\vmware.vprint-s.6108.18467.1" ...
+2012-05-07T17:47:47.983-04:00| vthread-3| I120: Log for VMware Workstation pid=4116 version=8.0.2 build=build-591240 option=Release
+2012-05-07T17:47:47.983-04:00| vthread-3| I120: The process is 32-bit.
+2012-05-07T17:47:47.983-04:00| vthread-3| I120: Host codepage=windows-1252 encoding=windows-1252
+2012-05-07T17:47:47.983-04:00| vthread-3| I120: Host is Windows 7 Enterprise, 64-bit  (Build 7600)
+2012-05-07T17:47:47.972-04:00| vthread-3| I120: Msg_Reset:
+2012-05-07T17:47:47.972-04:00| vthread-3| I120: [msg.dictionary.load.openFailed] Cannot open file "C:\ProgramData\VMware\VMware Workstation\config.ini": The system cannot find the file specified.
+2012-05-07T17:47:47.972-04:00| vthread-3| I120: ----------------------------------------
+2012-05-07T17:47:47.972-04:00| vthread-3| I120: PREF Optional preferences file not found at C:\ProgramData\VMware\VMware Workstation\config.ini. Using default values.
+2012-05-07T17:47:47.973-04:00| vthread-3| I120: Msg_Reset:
+2012-05-07T17:47:47.973-04:00| vthread-3| I120: [msg.dictionary.load.openFailed] Cannot open file "C:\ProgramData\VMware\VMware Workstation\settings.ini": The system cannot find the file specified.
+2012-05-07T17:47:47.973-04:00| vthread-3| I120: ----------------------------------------
+2012-05-07T17:47:47.973-04:00| vthread-3| I120: PREF Optional preferences file not found at C:\ProgramData\VMware\VMware Workstation\settings.ini. Using default values.
+2012-05-07T17:47:47.973-04:00| vthread-3| I120: Msg_Reset:
+2012-05-07T17:47:47.973-04:00| vthread-3| I120: [msg.dictionary.load.openFailed] Cannot open file "C:\ProgramData\VMware\VMware Workstation\config.ini": The system cannot find the file specified.
+2012-05-07T17:47:47.973-04:00| vthread-3| I120: ----------------------------------------
+2012-05-07T17:47:47.973-04:00| vthread-3| I120: PREF Optional preferences file not found at C:\ProgramData\VMware\VMware Workstation\config.ini. Using default values.
+2012-05-07T17:47:47.975-04:00| vthread-3| I120: Msg_Reset:
+2012-05-07T17:47:47.975-04:00| vthread-3| I120: [msg.dictionary.load.openFailed] Cannot open file "C:\Users\admin\AppData\Roaming\VMware\config.ini": The system cannot find the file specified.
+2012-05-07T17:47:47.975-04:00| vthread-3| I120: ----------------------------------------
+2012-05-07T17:47:47.975-04:00| vthread-3| I120: PREF Optional preferences file not found at C:\Users\admin\AppData\Roaming\VMware\config.ini. Using default values.
+2012-05-07T17:47:47.975-04:00| vthread-3| I120: FILE: FileLockDynaLink: Further process validation tools are: available
+2012-05-07T17:47:47.983-04:00| vthread-3| I120: Started, process id = 4116
+2012-05-07T17:47:47.983-04:00| vthread-3| I120:          pipe = \\.\pipe\vmware.vprint.5912.41.0
+2012-05-07T17:47:47.983-04:00| vthread-3| I120:          mutex = Global\vmware.vprint-s.5912.18467.1
+2012-05-07T17:47:47.984-04:00| vthread-3| I120: Path for TPClnVM.dll = 'C:\Program Files (x86)\VMware\VMware Player\TPClnVM.dll'
+2012-05-07T17:47:48.003-04:00| vthread-3| I120: Loaded TPClnVM.dll as C:\Program Files (x86)\VMware\VMware Player\TPClnVM.dll
+2012-05-07T17:47:48.003-04:00| vthread-3| I120: Got entry/stop functions
+2012-05-07T17:47:48.003-04:00| vthread-3| I120: Calling TP 'entry' function
+2012-05-07T17:47:48.130-04:00| vthread-3| I120: Waiting for mutex "Global\vmware.vprint-s.5912.18467.1" ...
+2012-05-07T17:53:17.424-04:00| vthread-3| I120: Mutex signalled
+2012-05-07T17:53:17.425-04:00| vthread-3| I120: Calling TP 'stop' function
+2012-05-07T17:53:17.932-04:00| vthread-3| I120: Cleaned up OK
+2012-05-07T17:53:17.932-04:00| vthread-3| I120: Exit
+2012-05-07T17:53:26.900-04:00| vthread-3| I120: Log for VMware Workstation pid=808 version=8.0.2 build=build-591240 option=Release
+2012-05-07T17:53:26.900-04:00| vthread-3| I120: The process is 32-bit.
+2012-05-07T17:53:26.900-04:00| vthread-3| I120: Host codepage=windows-1252 encoding=windows-1252
+2012-05-07T17:53:26.900-04:00| vthread-3| I120: Host is Windows 7 Enterprise, 64-bit  (Build 7600)
+2012-05-07T17:53:26.890-04:00| vthread-3| I120: Msg_Reset:
+2012-05-07T17:53:26.890-04:00| vthread-3| I120: [msg.dictionary.load.openFailed] Cannot open file "C:\ProgramData\VMware\VMware Workstation\config.ini": The system cannot find the file specified.
+2012-05-07T17:53:26.890-04:00| vthread-3| I120: ----------------------------------------
+2012-05-07T17:53:26.890-04:00| vthread-3| I120: PREF Optional preferences file not found at C:\ProgramData\VMware\VMware Workstation\config.ini. Using default values.
+2012-05-07T17:53:26.890-04:00| vthread-3| I120: Msg_Reset:
+2012-05-07T17:53:26.890-04:00| vthread-3| I120: [msg.dictionary.load.openFailed] Cannot open file "C:\ProgramData\VMware\VMware Workstation\settings.ini": The system cannot find the file specified.
+2012-05-07T17:53:26.890-04:00| vthread-3| I120: ----------------------------------------
+2012-05-07T17:53:26.890-04:00| vthread-3| I120: PREF Optional preferences file not found at C:\ProgramData\VMware\VMware Workstation\settings.ini. Using default values.
+2012-05-07T17:53:26.891-04:00| vthread-3| I120: Msg_Reset:
+2012-05-07T17:53:26.891-04:00| vthread-3| I120: [msg.dictionary.load.openFailed] Cannot open file "C:\ProgramData\VMware\VMware Workstation\config.ini": The system cannot find the file specified.
+2012-05-07T17:53:26.891-04:00| vthread-3| I120: ----------------------------------------
+2012-05-07T17:53:26.891-04:00| vthread-3| I120: PREF Optional preferences file not found at C:\ProgramData\VMware\VMware Workstation\config.ini. Using default values.
+2012-05-07T17:53:26.892-04:00| vthread-3| I120: Msg_Reset:
+2012-05-07T17:53:26.892-04:00| vthread-3| I120: [msg.dictionary.load.openFailed] Cannot open file "C:\Users\admin\AppData\Roaming\VMware\config.ini": The system cannot find the file specified.
+2012-05-07T17:53:26.892-04:00| vthread-3| I120: ----------------------------------------
+2012-05-07T17:53:26.892-04:00| vthread-3| I120: PREF Optional preferences file not found at C:\Users\admin\AppData\Roaming\VMware\config.ini. Using default values.
+2012-05-07T17:53:26.893-04:00| vthread-3| I120: FILE: FileLockDynaLink: Further process validation tools are: available
+2012-05-07T17:53:26.901-04:00| vthread-3| I120: Started, process id = 808
+2012-05-07T17:53:26.901-04:00| vthread-3| I120:          pipe = \\.\pipe\vmware.vprint.5912.6334.2
+2012-05-07T17:53:26.901-04:00| vthread-3| I120:          mutex = Global\vmware.vprint-s.5912.26500.3
+2012-05-07T17:53:26.901-04:00| vthread-3| I120: Path for TPClnVM.dll = 'C:\Program Files (x86)\VMware\VMware Player\TPClnVM.dll'
+2012-05-07T17:53:26.902-04:00| vthread-3| I120: Loaded TPClnVM.dll as C:\Program Files (x86)\VMware\VMware Player\TPClnVM.dll
+2012-05-07T17:53:26.902-04:00| vthread-3| I120: Got entry/stop functions
+2012-05-07T17:53:26.902-04:00| vthread-3| I120: Calling TP 'entry' function
+2012-05-07T17:53:26.935-04:00| vthread-3| I120: Waiting for mutex "Global\vmware.vprint-s.5912.26500.3" ...
+2012-05-07T17:57:19.490-04:00| vthread-3| I120: Mutex signalled
+2012-05-07T17:57:19.490-04:00| vthread-3| I120: Calling TP 'stop' function
+2012-05-07T17:57:19.997-04:00| vthread-3| I120: Cleaned up OK
+2012-05-07T17:57:19.997-04:00| vthread-3| I120: Exit
+2012-05-07T17:57:29.108-04:00| vthread-3| I120: Log for VMware Workstation pid=5376 version=8.0.2 build=build-591240 option=Release
+2012-05-07T17:57:29.108-04:00| vthread-3| I120: The process is 32-bit.
+2012-05-07T17:57:29.108-04:00| vthread-3| I120: Host codepage=windows-1252 encoding=windows-1252
+2012-05-07T17:57:29.108-04:00| vthread-3| I120: Host is Windows 7 Enterprise, 64-bit  (Build 7600)
+2012-05-07T17:57:29.095-04:00| vthread-3| I120: Msg_Reset:
+2012-05-07T17:57:29.095-04:00| vthread-3| I120: [msg.dictionary.load.openFailed] Cannot open file "C:\ProgramData\VMware\VMware Workstation\config.ini": The system cannot find the file specified.
+2012-05-07T17:57:29.095-04:00| vthread-3| I120: ----------------------------------------
+2012-05-07T17:57:29.095-04:00| vthread-3| I120: PREF Optional preferences file not found at C:\ProgramData\VMware\VMware Workstation\config.ini. Using default values.
+2012-05-07T17:57:29.095-04:00| vthread-3| I120: Msg_Reset:
+2012-05-07T17:57:29.096-04:00| vthread-3| I120: [msg.dictionary.load.openFailed] Cannot open file "C:\ProgramData\VMware\VMware Workstation\settings.ini": The system cannot find the file specified.
+2012-05-07T17:57:29.096-04:00| vthread-3| I120: ----------------------------------------
+2012-05-07T17:57:29.096-04:00| vthread-3| I120: PREF Optional preferences file not found at C:\ProgramData\VMware\VMware Workstation\settings.ini. Using default values.
+2012-05-07T17:57:29.096-04:00| vthread-3| I120: Msg_Reset:
+2012-05-07T17:57:29.096-04:00| vthread-3| I120: [msg.dictionary.load.openFailed] Cannot open file "C:\ProgramData\VMware\VMware Workstation\config.ini": The system cannot find the file specified.
+2012-05-07T17:57:29.096-04:00| vthread-3| I120: ----------------------------------------
+2012-05-07T17:57:29.096-04:00| vthread-3| I120: PREF Optional preferences file not found at C:\ProgramData\VMware\VMware Workstation\config.ini. Using default values.
+2012-05-07T17:57:29.097-04:00| vthread-3| I120: Msg_Reset:
+2012-05-07T17:57:29.097-04:00| vthread-3| I120: [msg.dictionary.load.openFailed] Cannot open file "C:\Users\admin\AppData\Roaming\VMware\config.ini": The system cannot find the file specified.
+2012-05-07T17:57:29.097-04:00| vthread-3| I120: ----------------------------------------
+2012-05-07T17:57:29.097-04:00| vthread-3| I120: PREF Optional preferences file not found at C:\Users\admin\AppData\Roaming\VMware\config.ini. Using default values.
+2012-05-07T17:57:29.098-04:00| vthread-3| I120: FILE: FileLockDynaLink: Further process validation tools are: available
+2012-05-07T17:57:29.109-04:00| vthread-3| I120: Started, process id = 5376
+2012-05-07T17:57:29.109-04:00| vthread-3| I120:          pipe = \\.\pipe\vmware.vprint.5912.19169.4
+2012-05-07T17:57:29.109-04:00| vthread-3| I120:          mutex = Global\vmware.vprint-s.5912.15724.5
+2012-05-07T17:57:29.109-04:00| vthread-3| I120: Path for TPClnVM.dll = 'C:\Program Files (x86)\VMware\VMware Player\TPClnVM.dll'
+2012-05-07T17:57:29.111-04:00| vthread-3| I120: Loaded TPClnVM.dll as C:\Program Files (x86)\VMware\VMware Player\TPClnVM.dll
+2012-05-07T17:57:29.111-04:00| vthread-3| I120: Got entry/stop functions
+2012-05-07T17:57:29.111-04:00| vthread-3| I120: Calling TP 'entry' function
+2012-05-07T17:57:29.150-04:00| vthread-3| I120: Waiting for mutex "Global\vmware.vprint-s.5912.15724.5" ...
+2012-05-08T17:55:50.319-04:00| vthread-3| I120: Log for VMware Workstation pid=3508 version=8.0.2 build=build-591240 option=Release
+2012-05-08T17:55:50.319-04:00| vthread-3| I120: The process is 32-bit.
+2012-05-08T17:55:50.319-04:00| vthread-3| I120: Host codepage=windows-1252 encoding=windows-1252
+2012-05-08T17:55:50.319-04:00| vthread-3| I120: Host is Windows 7 Enterprise, 64-bit  (Build 7600)
+2012-05-08T17:55:50.309-04:00| vthread-3| I120: Msg_Reset:
+2012-05-08T17:55:50.309-04:00| vthread-3| I120: [msg.dictionary.load.openFailed] Cannot open file "C:\ProgramData\VMware\VMware Workstation\config.ini": The system cannot find the file specified.
+2012-05-08T17:55:50.309-04:00| vthread-3| I120: ----------------------------------------
+2012-05-08T17:55:50.309-04:00| vthread-3| I120: PREF Optional preferences file not found at C:\ProgramData\VMware\VMware Workstation\config.ini. Using default values.
+2012-05-08T17:55:50.310-04:00| vthread-3| I120: Msg_Reset:
+2012-05-08T17:55:50.310-04:00| vthread-3| I120: [msg.dictionary.load.openFailed] Cannot open file "C:\ProgramData\VMware\VMware Workstation\settings.ini": The system cannot find the file specified.
+2012-05-08T17:55:50.310-04:00| vthread-3| I120: ----------------------------------------
+2012-05-08T17:55:50.310-04:00| vthread-3| I120: PREF Optional preferences file not found at C:\ProgramData\VMware\VMware Workstation\settings.ini. Using default values.
+2012-05-08T17:55:50.310-04:00| vthread-3| I120: Msg_Reset:
+2012-05-08T17:55:50.310-04:00| vthread-3| I120: [msg.dictionary.load.openFailed] Cannot open file "C:\ProgramData\VMware\VMware Workstation\config.ini": The system cannot find the file specified.
+2012-05-08T17:55:50.310-04:00| vthread-3| I120: ----------------------------------------
+2012-05-08T17:55:50.310-04:00| vthread-3| I120: PREF Optional preferences file not found at C:\ProgramData\VMware\VMware Workstation\config.ini. Using default values.
+2012-05-08T17:55:50.311-04:00| vthread-3| I120: Msg_Reset:
+2012-05-08T17:55:50.311-04:00| vthread-3| I120: [msg.dictionary.load.openFailed] Cannot open file "C:\Users\admin\AppData\Roaming\VMware\config.ini": The system cannot find the file specified.
+2012-05-08T17:55:50.311-04:00| vthread-3| I120: ----------------------------------------
+2012-05-08T17:55:50.311-04:00| vthread-3| I120: PREF Optional preferences file not found at C:\Users\admin\AppData\Roaming\VMware\config.ini. Using default values.
+2012-05-08T17:55:50.312-04:00| vthread-3| I120: FILE: FileLockDynaLink: Further process validation tools are: available
+2012-05-08T17:55:50.320-04:00| vthread-3| I120: Started, process id = 3508
+2012-05-08T17:55:50.320-04:00| vthread-3| I120:          pipe = \\.\pipe\vmware.vprint.2136.41.0
+2012-05-08T17:55:50.320-04:00| vthread-3| I120:          mutex = Global\vmware.vprint-s.2136.18467.1
+2012-05-08T17:55:50.321-04:00| vthread-3| I120: Path for TPClnVM.dll = 'C:\Program Files (x86)\VMware\VMware Player\TPClnVM.dll'
+2012-05-08T17:55:50.337-04:00| vthread-3| I120: Loaded TPClnVM.dll as C:\Program Files (x86)\VMware\VMware Player\TPClnVM.dll
+2012-05-08T17:55:50.337-04:00| vthread-3| I120: Got entry/stop functions
+2012-05-08T17:55:50.337-04:00| vthread-3| I120: Calling TP 'entry' function
+2012-05-08T17:55:50.448-04:00| vthread-3| I120: Waiting for mutex "Global\vmware.vprint-s.2136.18467.1" ...
+2012-05-12T18:56:37.243-04:00| vthread-3| I120: Log for VMware Workstation pid=5140 version=8.0.2 build=build-591240 option=Release
+2012-05-12T18:56:37.243-04:00| vthread-3| I120: The process is 32-bit.
+2012-05-12T18:56:37.243-04:00| vthread-3| I120: Host codepage=windows-1252 encoding=windows-1252
+2012-05-12T18:56:37.243-04:00| vthread-3| I120: Host is Windows 7 Enterprise, 64-bit  (Build 7600)
+2012-05-12T18:56:37.231-04:00| vthread-3| I120: Msg_Reset:
+2012-05-12T18:56:37.231-04:00| vthread-3| I120: [msg.dictionary.load.openFailed] Cannot open file "C:\ProgramData\VMware\VMware Workstation\config.ini": The system cannot find the file specified.
+2012-05-12T18:56:37.231-04:00| vthread-3| I120: ----------------------------------------
+2012-05-12T18:56:37.231-04:00| vthread-3| I120: PREF Optional preferences file not found at C:\ProgramData\VMware\VMware Workstation\config.ini. Using default values.
+2012-05-12T18:56:37.232-04:00| vthread-3| I120: Msg_Reset:
+2012-05-12T18:56:37.232-04:00| vthread-3| I120: [msg.dictionary.load.openFailed] Cannot open file "C:\ProgramData\VMware\VMware Workstation\settings.ini": The system cannot find the file specified.
+2012-05-12T18:56:37.232-04:00| vthread-3| I120: ----------------------------------------
+2012-05-12T18:56:37.232-04:00| vthread-3| I120: PREF Optional preferences file not found at C:\ProgramData\VMware\VMware Workstation\settings.ini. Using default values.
+2012-05-12T18:56:37.232-04:00| vthread-3| I120: Msg_Reset:
+2012-05-12T18:56:37.232-04:00| vthread-3| I120: [msg.dictionary.load.openFailed] Cannot open file "C:\ProgramData\VMware\VMware Workstation\config.ini": The system cannot find the file specified.
+2012-05-12T18:56:37.232-04:00| vthread-3| I120: ----------------------------------------
+2012-05-12T18:56:37.232-04:00| vthread-3| I120: PREF Optional preferences file not found at C:\ProgramData\VMware\VMware Workstation\config.ini. Using default values.
+2012-05-12T18:56:37.234-04:00| vthread-3| I120: Msg_Reset:
+2012-05-12T18:56:37.234-04:00| vthread-3| I120: [msg.dictionary.load.openFailed] Cannot open file "C:\Users\admin\AppData\Roaming\VMware\config.ini": The system cannot find the file specified.
+2012-05-12T18:56:37.234-04:00| vthread-3| I120: ----------------------------------------
+2012-05-12T18:56:37.234-04:00| vthread-3| I120: PREF Optional preferences file not found at C:\Users\admin\AppData\Roaming\VMware\config.ini. Using default values.
+2012-05-12T18:56:37.234-04:00| vthread-3| I120: FILE: FileLockDynaLink: Further process validation tools are: available
+2012-05-12T18:56:37.244-04:00| vthread-3| I120: Started, process id = 5140
+2012-05-12T18:56:37.244-04:00| vthread-3| I120:          pipe = \\.\pipe\vmware.vprint.3732.41.0
+2012-05-12T18:56:37.244-04:00| vthread-3| I120:          mutex = Global\vmware.vprint-s.3732.18467.1
+2012-05-12T18:56:37.244-04:00| vthread-3| I120: Path for TPClnVM.dll = 'C:\Program Files (x86)\VMware\VMware Player\TPClnVM.dll'
+2012-05-12T18:56:37.273-04:00| vthread-3| I120: Loaded TPClnVM.dll as C:\Program Files (x86)\VMware\VMware Player\TPClnVM.dll
+2012-05-12T18:56:37.273-04:00| vthread-3| I120: Got entry/stop functions
+2012-05-12T18:56:37.273-04:00| vthread-3| I120: Calling TP 'entry' function
+2012-05-12T18:56:37.458-04:00| vthread-3| I120: Waiting for mutex "Global\vmware.vprint-s.3732.18467.1" ...
+2012-05-13T13:06:58.592-04:00| vthread-3| I120: Log for VMware Workstation pid=4140 version=8.0.2 build=build-591240 option=Release
+2012-05-13T13:06:58.592-04:00| vthread-3| I120: The process is 32-bit.
+2012-05-13T13:06:58.592-04:00| vthread-3| I120: Host codepage=windows-1252 encoding=windows-1252
+2012-05-13T13:06:58.592-04:00| vthread-3| I120: Host is Windows 7 Enterprise, 64-bit  (Build 7600)
+2012-05-13T13:06:58.576-04:00| vthread-3| I120: Msg_Reset:
+2012-05-13T13:06:58.576-04:00| vthread-3| I120: [msg.dictionary.load.openFailed] Cannot open file "C:\ProgramData\VMware\VMware Workstation\config.ini": The system cannot find the file specified.
+2012-05-13T13:06:58.576-04:00| vthread-3| I120: ----------------------------------------
+2012-05-13T13:06:58.576-04:00| vthread-3| I120: PREF Optional preferences file not found at C:\ProgramData\VMware\VMware Workstation\config.ini. Using default values.
+2012-05-13T13:06:58.576-04:00| vthread-3| I120: Msg_Reset:
+2012-05-13T13:06:58.576-04:00| vthread-3| I120: [msg.dictionary.load.openFailed] Cannot open file "C:\ProgramData\VMware\VMware Workstation\settings.ini": The system cannot find the file specified.
+2012-05-13T13:06:58.576-04:00| vthread-3| I120: ----------------------------------------
+2012-05-13T13:06:58.576-04:00| vthread-3| I120: PREF Optional preferences file not found at C:\ProgramData\VMware\VMware Workstation\settings.ini. Using default values.
+2012-05-13T13:06:58.576-04:00| vthread-3| I120: Msg_Reset:
+2012-05-13T13:06:58.576-04:00| vthread-3| I120: [msg.dictionary.load.openFailed] Cannot open file "C:\ProgramData\VMware\VMware Workstation\config.ini": The system cannot find the file specified.
+2012-05-13T13:06:58.576-04:00| vthread-3| I120: ----------------------------------------
+2012-05-13T13:06:58.576-04:00| vthread-3| I120: PREF Optional preferences file not found at C:\ProgramData\VMware\VMware Workstation\config.ini. Using default values.
+2012-05-13T13:06:58.576-04:00| vthread-3| I120: Msg_Reset:
+2012-05-13T13:06:58.576-04:00| vthread-3| I120: [msg.dictionary.load.openFailed] Cannot open file "C:\Users\admin\AppData\Roaming\VMware\config.ini": The system cannot find the file specified.
+2012-05-13T13:06:58.576-04:00| vthread-3| I120: ----------------------------------------
+2012-05-13T13:06:58.576-04:00| vthread-3| I120: PREF Optional preferences file not found at C:\Users\admin\AppData\Roaming\VMware\config.ini. Using default values.
+2012-05-13T13:06:58.576-04:00| vthread-3| I120: FILE: FileLockDynaLink: Further process validation tools are: available
+2012-05-13T13:06:58.592-04:00| vthread-3| I120: Started, process id = 4140
+2012-05-13T13:06:58.592-04:00| vthread-3| I120:          pipe = \\.\pipe\vmware.vprint.4356.41.0
+2012-05-13T13:06:58.592-04:00| vthread-3| I120:          mutex = Global\vmware.vprint-s.4356.18467.1
+2012-05-13T13:06:58.592-04:00| vthread-3| I120: Path for TPClnVM.dll = 'C:\Program Files (x86)\VMware\VMware Player\TPClnVM.dll'
+2012-05-13T13:06:58.607-04:00| vthread-3| I120: Loaded TPClnVM.dll as C:\Program Files (x86)\VMware\VMware Player\TPClnVM.dll
+2012-05-13T13:06:58.607-04:00| vthread-3| I120: Got entry/stop functions
+2012-05-13T13:06:58.607-04:00| vthread-3| I120: Calling TP 'entry' function
+2012-05-13T13:06:58.732-04:00| vthread-3| I120: Waiting for mutex "Global\vmware.vprint-s.4356.18467.1" ...
+2012-05-13T20:06:56.009-04:00| vthread-3| I120: Mutex signalled
+2012-05-13T20:06:56.010-04:00| vthread-3| I120: Calling TP 'stop' function
+2012-05-13T20:06:56.514-04:00| vthread-3| I120: Cleaned up OK
+2012-05-13T20:06:56.514-04:00| vthread-3| I120: Exit
+2012-05-14T19:46:28.391-04:00| vthread-3| I120: Log for VMware Workstation pid=4724 version=8.0.2 build=build-591240 option=Release
+2012-05-14T19:46:28.391-04:00| vthread-3| I120: The process is 32-bit.
+2012-05-14T19:46:28.391-04:00| vthread-3| I120: Host codepage=windows-1252 encoding=windows-1252
+2012-05-14T19:46:28.391-04:00| vthread-3| I120: Host is Windows 7 Enterprise, 64-bit  (Build 7600)
+2012-05-14T19:46:28.380-04:00| vthread-3| I120: Msg_Reset:
+2012-05-14T19:46:28.380-04:00| vthread-3| I120: [msg.dictionary.load.openFailed] Cannot open file "C:\ProgramData\VMware\VMware Workstation\config.ini": The system cannot find the file specified.
+2012-05-14T19:46:28.380-04:00| vthread-3| I120: ----------------------------------------
+2012-05-14T19:46:28.380-04:00| vthread-3| I120: PREF Optional preferences file not found at C:\ProgramData\VMware\VMware Workstation\config.ini. Using default values.
+2012-05-14T19:46:28.381-04:00| vthread-3| I120: Msg_Reset:
+2012-05-14T19:46:28.381-04:00| vthread-3| I120: [msg.dictionary.load.openFailed] Cannot open file "C:\ProgramData\VMware\VMware Workstation\settings.ini": The system cannot find the file specified.
+2012-05-14T19:46:28.381-04:00| vthread-3| I120: ----------------------------------------
+2012-05-14T19:46:28.381-04:00| vthread-3| I120: PREF Optional preferences file not found at C:\ProgramData\VMware\VMware Workstation\settings.ini. Using default values.
+2012-05-14T19:46:28.381-04:00| vthread-3| I120: Msg_Reset:
+2012-05-14T19:46:28.381-04:00| vthread-3| I120: [msg.dictionary.load.openFailed] Cannot open file "C:\ProgramData\VMware\VMware Workstation\config.ini": The system cannot find the file specified.
+2012-05-14T19:46:28.381-04:00| vthread-3| I120: ----------------------------------------
+2012-05-14T19:46:28.381-04:00| vthread-3| I120: PREF Optional preferences file not found at C:\ProgramData\VMware\VMware Workstation\config.ini. Using default values.
+2012-05-14T19:46:28.383-04:00| vthread-3| I120: Msg_Reset:
+2012-05-14T19:46:28.383-04:00| vthread-3| I120: [msg.dictionary.load.openFailed] Cannot open file "C:\Users\admin\AppData\Roaming\VMware\config.ini": The system cannot find the file specified.
+2012-05-14T19:46:28.383-04:00| vthread-3| I120: ----------------------------------------
+2012-05-14T19:46:28.383-04:00| vthread-3| I120: PREF Optional preferences file not found at C:\Users\admin\AppData\Roaming\VMware\config.ini. Using default values.
+2012-05-14T19:46:28.383-04:00| vthread-3| I120: FILE: FileLockDynaLink: Further process validation tools are: available
+2012-05-14T19:46:28.392-04:00| vthread-3| I120: Started, process id = 4724
+2012-05-14T19:46:28.392-04:00| vthread-3| I120:          pipe = \\.\pipe\vmware.vprint.5392.41.0
+2012-05-14T19:46:28.392-04:00| vthread-3| I120:          mutex = Global\vmware.vprint-s.5392.18467.1
+2012-05-14T19:46:28.392-04:00| vthread-3| I120: Path for TPClnVM.dll = 'C:\Program Files (x86)\VMware\VMware Player\TPClnVM.dll'
+2012-05-14T19:46:28.410-04:00| vthread-3| I120: Loaded TPClnVM.dll as C:\Program Files (x86)\VMware\VMware Player\TPClnVM.dll
+2012-05-14T19:46:28.410-04:00| vthread-3| I120: Got entry/stop functions
+2012-05-14T19:46:28.410-04:00| vthread-3| I120: Calling TP 'entry' function
+2012-05-14T19:46:28.526-04:00| vthread-3| I120: Waiting for mutex "Global\vmware.vprint-s.5392.18467.1" ...
+2012-05-16T16:20:45.392-04:00| vthread-3| I120: Log for VMware Workstation pid=5088 version=8.0.2 build=build-591240 option=Release
+2012-05-16T16:20:45.392-04:00| vthread-3| I120: The process is 32-bit.
+2012-05-16T16:20:45.392-04:00| vthread-3| I120: Host codepage=windows-1252 encoding=windows-1252
+2012-05-16T16:20:45.392-04:00| vthread-3| I120: Host is Windows 7 Enterprise, 64-bit  (Build 7600)
+2012-05-16T16:20:45.367-04:00| vthread-3| I120: Msg_Reset:
+2012-05-16T16:20:45.367-04:00| vthread-3| I120: [msg.dictionary.load.openFailed] Cannot open file "C:\ProgramData\VMware\VMware Workstation\config.ini": The system cannot find the file specified.
+2012-05-16T16:20:45.367-04:00| vthread-3| I120: ----------------------------------------
+2012-05-16T16:20:45.367-04:00| vthread-3| I120: PREF Optional preferences file not found at C:\ProgramData\VMware\VMware Workstation\config.ini. Using default values.
+2012-05-16T16:20:45.368-04:00| vthread-3| I120: Msg_Reset:
+2012-05-16T16:20:45.368-04:00| vthread-3| I120: [msg.dictionary.load.openFailed] Cannot open file "C:\ProgramData\VMware\VMware Workstation\settings.ini": The system cannot find the file specified.
+2012-05-16T16:20:45.368-04:00| vthread-3| I120: ----------------------------------------
+2012-05-16T16:20:45.368-04:00| vthread-3| I120: PREF Optional preferences file not found at C:\ProgramData\VMware\VMware Workstation\settings.ini. Using default values.
+2012-05-16T16:20:45.368-04:00| vthread-3| I120: Msg_Reset:
+2012-05-16T16:20:45.368-04:00| vthread-3| I120: [msg.dictionary.load.openFailed] Cannot open file "C:\ProgramData\VMware\VMware Workstation\config.ini": The system cannot find the file specified.
+2012-05-16T16:20:45.368-04:00| vthread-3| I120: ----------------------------------------
+2012-05-16T16:20:45.368-04:00| vthread-3| I120: PREF Optional preferences file not found at C:\ProgramData\VMware\VMware Workstation\config.ini. Using default values.
+2012-05-16T16:20:45.369-04:00| vthread-3| I120: Msg_Reset:
+2012-05-16T16:20:45.369-04:00| vthread-3| I120: [msg.dictionary.load.openFailed] Cannot open file "C:\Users\admin\AppData\Roaming\VMware\config.ini": The system cannot find the file specified.
+2012-05-16T16:20:45.369-04:00| vthread-3| I120: ----------------------------------------
+2012-05-16T16:20:45.369-04:00| vthread-3| I120: PREF Optional preferences file not found at C:\Users\admin\AppData\Roaming\VMware\config.ini. Using default values.
+2012-05-16T16:20:45.370-04:00| vthread-3| I120: FILE: FileLockDynaLink: Further process validation tools are: available
+2012-05-16T16:20:45.392-04:00| vthread-3| I120: Started, process id = 5088
+2012-05-16T16:20:45.392-04:00| vthread-3| I120:          pipe = \\.\pipe\vmware.vprint.5148.41.0
+2012-05-16T16:20:45.392-04:00| vthread-3| I120:          mutex = Global\vmware.vprint-s.5148.18467.1
+2012-05-16T16:20:45.393-04:00| vthread-3| I120: Path for TPClnVM.dll = 'C:\Program Files (x86)\VMware\VMware Player\TPClnVM.dll'
+2012-05-16T16:20:45.410-04:00| vthread-3| I120: Loaded TPClnVM.dll as C:\Program Files (x86)\VMware\VMware Player\TPClnVM.dll
+2012-05-16T16:20:45.410-04:00| vthread-3| I120: Got entry/stop functions
+2012-05-16T16:20:45.410-04:00| vthread-3| I120: Calling TP 'entry' function
+2012-05-16T16:20:45.536-04:00| vthread-3| I120: Waiting for mutex "Global\vmware.vprint-s.5148.18467.1" ...
+2012-05-16T19:30:23.553-04:00| vthread-3| I120: Mutex signalled
+2012-05-16T19:30:23.553-04:00| vthread-3| I120: Calling TP 'stop' function
+2012-05-16T19:30:24.076-04:00| vthread-3| I120: Cleaned up OK
+2012-05-16T19:30:24.077-04:00| vthread-3| I120: Exit
+2012-05-18T17:19:27.981-04:00| vthread-3| I120: Log for VMware Workstation pid=5612 version=8.0.2 build=build-591240 option=Release
+2012-05-18T17:19:27.981-04:00| vthread-3| I120: The process is 32-bit.
+2012-05-18T17:19:27.981-04:00| vthread-3| I120: Host codepage=windows-1252 encoding=windows-1252
+2012-05-18T17:19:27.981-04:00| vthread-3| I120: Host is Windows 7 Enterprise, 64-bit  (Build 7600)
+2012-05-18T17:19:27.932-04:00| vthread-3| I120: Msg_Reset:
+2012-05-18T17:19:27.932-04:00| vthread-3| I120: [msg.dictionary.load.openFailed] Cannot open file "C:\ProgramData\VMware\VMware Workstation\config.ini": The system cannot find the file specified.
+2012-05-18T17:19:27.932-04:00| vthread-3| I120: ----------------------------------------
+2012-05-18T17:19:27.932-04:00| vthread-3| I120: PREF Optional preferences file not found at C:\ProgramData\VMware\VMware Workstation\config.ini. Using default values.
+2012-05-18T17:19:27.932-04:00| vthread-3| I120: Msg_Reset:
+2012-05-18T17:19:27.932-04:00| vthread-3| I120: [msg.dictionary.load.openFailed] Cannot open file "C:\ProgramData\VMware\VMware Workstation\settings.ini": The system cannot find the file specified.
+2012-05-18T17:19:27.932-04:00| vthread-3| I120: ----------------------------------------
+2012-05-18T17:19:27.932-04:00| vthread-3| I120: PREF Optional preferences file not found at C:\ProgramData\VMware\VMware Workstation\settings.ini. Using default values.
+2012-05-18T17:19:27.933-04:00| vthread-3| I120: Msg_Reset:
+2012-05-18T17:19:27.933-04:00| vthread-3| I120: [msg.dictionary.load.openFailed] Cannot open file "C:\ProgramData\VMware\VMware Workstation\config.ini": The system cannot find the file specified.
+2012-05-18T17:19:27.933-04:00| vthread-3| I120: ----------------------------------------
+2012-05-18T17:19:27.933-04:00| vthread-3| I120: PREF Optional preferences file not found at C:\ProgramData\VMware\VMware Workstation\config.ini. Using default values.
+2012-05-18T17:19:27.934-04:00| vthread-3| I120: Msg_Reset:
+2012-05-18T17:19:27.934-04:00| vthread-3| I120: [msg.dictionary.load.openFailed] Cannot open file "C:\Users\admin\AppData\Roaming\VMware\config.ini": The system cannot find the file specified.
+2012-05-18T17:19:27.934-04:00| vthread-3| I120: ----------------------------------------
+2012-05-18T17:19:27.934-04:00| vthread-3| I120: PREF Optional preferences file not found at C:\Users\admin\AppData\Roaming\VMware\config.ini. Using default values.
+2012-05-18T17:19:27.935-04:00| vthread-3| I120: FILE: FileLockDynaLink: Further process validation tools are: available
+2012-05-18T17:19:27.982-04:00| vthread-3| I120: Started, process id = 5612
+2012-05-18T17:19:27.982-04:00| vthread-3| I120:          pipe = \\.\pipe\vmware.vprint.5860.41.0
+2012-05-18T17:19:27.982-04:00| vthread-3| I120:          mutex = Global\vmware.vprint-s.5860.18467.1
+2012-05-18T17:19:27.982-04:00| vthread-3| I120: Path for TPClnVM.dll = 'C:\Program Files (x86)\VMware\VMware Player\TPClnVM.dll'
+2012-05-18T17:19:28.000-04:00| vthread-3| I120: Loaded TPClnVM.dll as C:\Program Files (x86)\VMware\VMware Player\TPClnVM.dll
+2012-05-18T17:19:28.000-04:00| vthread-3| I120: Got entry/stop functions
+2012-05-18T17:19:28.000-04:00| vthread-3| I120: Calling TP 'entry' function
+2012-05-18T17:19:28.175-04:00| vthread-3| I120: Waiting for mutex "Global\vmware.vprint-s.5860.18467.1" ...

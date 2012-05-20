@@ -1,0 +1,10 @@
+C:\Users\admin\AppData\Local\Temporary Projects\CoreWebBrowsre\bin\Debug\CoreWebBrowsre.exe.config
+C:\Users\admin\AppData\Local\Temporary Projects\CoreWebBrowsre\bin\Debug\CoreWebBrowsre.exe
+C:\Users\admin\AppData\Local\Temporary Projects\CoreWebBrowsre\bin\Debug\CoreWebBrowsre.pdb
+C:\Users\admin\AppData\Local\Temporary Projects\CoreWebBrowsre\bin\Debug\CoreWebBrowsre.xml
+C:\Users\admin\AppData\Local\Temporary Projects\CoreWebBrowsre\obj\Debug\CoreWebBrowsre.Form1.resources
+C:\Users\admin\AppData\Local\Temporary Projects\CoreWebBrowsre\obj\Debug\CoreWebBrowsre.Resources.resources
+C:\Users\admin\AppData\Local\Temporary Projects\CoreWebBrowsre\obj\Debug\CoreWebBrowsre.vbproj.GenerateResource.Cache
+C:\Users\admin\AppData\Local\Temporary Projects\CoreWebBrowsre\obj\Debug\CoreWebBrowsre.exe
+C:\Users\admin\AppData\Local\Temporary Projects\CoreWebBrowsre\obj\Debug\CoreWebBrowsre.xml
+C:\Users\admin\AppData\Local\Temporary Projects\CoreWebBrowsre\obj\Debug\CoreWebBrowsre.pdb
